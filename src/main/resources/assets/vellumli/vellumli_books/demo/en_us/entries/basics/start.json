@@ -1,0 +1,16 @@
+{
+  "name": "vellumli.demo_book.entry.start",
+  "category": "vellumli:basics",
+  "icon": "minecraft:lectern",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "vellumli.demo_book.page.start.0"
+    },
+    {
+      "type": "text",
+      "text": "vellumli.demo_book.page.start.1"
+    }
+  ]
+}

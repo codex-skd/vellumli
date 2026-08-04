@@ -1,42 +1,108 @@
 package com.skd.vellumli;
 
-import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
-
-import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.Identifier;
-import net.minecraft.world.item.Item;
-import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.fml.common.EventBusSubscriber;
-import net.neoforged.fml.event.config.ModConfigEvent;
+import net.neoforged.fml.ModContainer;
+import net.neoforged.fml.config.ModConfig;
 import net.neoforged.neoforge.common.ModConfigSpec;
 
-// An example config class. This is not required, but it's a good idea to have one to keep your config organized.
-// Demonstrates how to use Neo's config APIs
+import com.skd.vellumli.api.VellumliConfigAccess;
+import com.skd.vellumli.common.base.VellumliConfig;
+
+import java.util.Collections;
+import java.util.List;
+
+/**
+ * Vellumli configuration, exposed through NeoForge's {@link ModConfigSpec} (client config),
+ * following the pattern of Patchouli's NeoForge config (ported and renamed).
+ *
+ * The values are fed into {@link VellumliConfig}, which is the cross-platform access point used
+ * by the rest of the code, and are also reflected in the {@code vellumli.configuration.*}
+ * translation keys for the NeoForge config screen.
+ */
 public class Config {
-    private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();
+	public static final ModConfigSpec.ConfigValue<Boolean> disableAdvancementLocking;
+	public static final ModConfigSpec.ConfigValue<List<? extends String>> noAdvancementBooks;
+	public static final ModConfigSpec.ConfigValue<Boolean> testingMode;
+	public static final ModConfigSpec.ConfigValue<String> inventoryButtonBook;
+	public static final ModConfigSpec.ConfigValue<Boolean> useShiftForQuickLookup;
+	public static final ModConfigSpec.EnumValue<VellumliConfigAccess.TextOverflowMode> overflowMode;
+	public static final ModConfigSpec.ConfigValue<Integer> quickLookupTime;
 
-    public static final ModConfigSpec.BooleanValue LOG_DIRT_BLOCK = BUILDER
-            .comment("Whether to log the dirt block on common setup")
-            .define("logDirtBlock", true);
+	private static final ModConfigSpec SPEC;
+	static {
+		ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
+		disableAdvancementLocking = builder
+				.comment("Set this to true to disable advancement locking for ALL books, making all entries visible at all times. Config Flag: advancements_disabled")
+				.define("disableAdvancementLocking", false);
 
-    public static final ModConfigSpec.IntValue MAGIC_NUMBER = BUILDER
-            .comment("A magic number")
-            .defineInRange("magicNumber", 42, 0, Integer.MAX_VALUE);
+		noAdvancementBooks = builder
+				.comment("Granular list of Book ID's to disable advancement locking for, e.g. [ \"vellumli:demo\" ]. Config Flags: advancements_disabled_<bookid>")
+				.defineListAllowEmpty(List.of("noAdvancementBooks"), Collections::emptyList,
+						o -> o instanceof String s && Identifier.tryParse(s) != null);
 
-    public static final ModConfigSpec.ConfigValue<String> MAGIC_NUMBER_INTRODUCTION = BUILDER
-            .comment("What you want the introduction message to be for the magic number")
-            .define("magicNumberIntroduction", "The magic number is... ");
+		testingMode = builder
+				.comment("Enable testing mode. By default this doesn't do anything, but you can use the config flag in your books if you want. Config Flag: testing_mode")
+				.define("testingMode", false);
 
-    // a list of strings that are treated as resource locations for items
-    public static final ModConfigSpec.ConfigValue<List<? extends String>> ITEM_STRINGS = BUILDER
-            .comment("A list of items to log on common setup.")
-            .defineListAllowEmpty("items", List.of("minecraft:iron_ingot"), () -> "", Config::validateItemName);
+		inventoryButtonBook = builder
+				.comment("Set this to the ID of a book to have it show up in players' inventories, replacing the recipe book.")
+				.define("inventoryButtonBook", "");
 
-    static final ModConfigSpec SPEC = BUILDER.build();
+		useShiftForQuickLookup = builder
+				.comment("Set this to true to use Shift instead of Ctrl for the inventory quick lookup feature.")
+				.define("useShiftForQuickLookup", false);
 
-    private static boolean validateItemName(final Object obj) {
-        return obj instanceof String itemName && BuiltInRegistries.ITEM.containsKey(Identifier.parse(itemName));
-    }
+		overflowMode = builder
+				.comment("Set how text overflow should be coped with: overflow the text off the page, truncate overflowed text, or resize everything to fit. Relogin after changing.")
+				.defineEnum("textOverflowMode", VellumliConfigAccess.TextOverflowMode.RESIZE);
+
+		quickLookupTime = builder
+				.comment("How long in ticks the quick lookup key needs to be pressed before the book opens")
+				.define("quickLookupTime", 10);
+
+		SPEC = builder.build();
+	}
+
+	public static void setup(ModContainer container) {
+		container.registerConfig(ModConfig.Type.CLIENT, SPEC);
+		VellumliConfig.set(new VellumliConfigAccess() {
+			@Override
+			public boolean disableAdvancementLocking() {
+				return disableAdvancementLocking.get();
+			}
+
+			@Override
+			public List<String> noAdvancementBooks() {
+				// cast from List<? extends String> to List<String>
+				// String is final so this is safe
+				// This is only needed because the Config API is stupid and forces a `? extends` type.
+				return (List<String>) noAdvancementBooks.get();
+			}
+
+			@Override
+			public boolean testingMode() {
+				return testingMode.get();
+			}
+
+			@Override
+			public String inventoryButtonBook() {
+				return inventoryButtonBook.get();
+			}
+
+			@Override
+			public boolean useShiftForQuickLookup() {
+				return useShiftForQuickLookup.get();
+			}
+
+			@Override
+			public TextOverflowMode overflowMode() {
+				return overflowMode.get();
+			}
+
+			@Override
+			public int quickLookupTime() {
+				return quickLookupTime.get();
+			}
+		});
+	}
 }

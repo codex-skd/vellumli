@@ -12,8 +12,8 @@
 
 | API | Token | Uso |
 |-----|-------|-----|
-| Upload | *(mismo token de cuenta que el resto de mods — ver `data_miner/26.1.2/docs/curseforge/project_vars.md` u otro mod ya publicado)* | Subir archivos JAR |
-| Core (GET) | *(mismo token de cuenta)* | Consultar datos del mod |
+| Upload | `ee776b0a-ee95-4850-b554-06be02a8657f` | Subir archivos JAR |
+| Core (GET) | `$2a$10$yGwryAfmRkS9ZJsJUDf5YOKZpOIsmHB8Fji2D8JVCKBSZEKYlwmaO` | Consultar datos del mod |
 
 Autenticación Upload: cabecera `X-Api-Token`
 Autenticación Core: cabecera `x-api-key`
@@ -24,9 +24,9 @@ Autenticación Core: cabecera `x-api-key`
 
 ```
 project_id = 1638492
-api_token = PENDIENTE (copiar del token de cuenta)
+api_token = ee776b0a-ee95-4850-b554-06be02a8657f
 release_type = beta
-game_versions = 16498  # Minecraft 26.2 — verificar ID exacto en CurseForge al publicar
+game_versions = 16498,10150,9638
 relations =            # sin dependencias obligatorias
 ```
 

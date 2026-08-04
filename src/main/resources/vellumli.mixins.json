@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8.4",
+  "package": "com.skd.vellumli.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+  ],
+  "client": [
+    "client.AccessorClientAdvancements",
+    "client.AccessorKeyMapping",
+    "client.AccessorMultiBufferSource",
+    "client.AccessorScreen",
+    "client.MixinClientAdvancements",
+    "client.MixinInventoryScreen",
+    "client.MixinSystemReport"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "vellumli.refmap.json"
+}
