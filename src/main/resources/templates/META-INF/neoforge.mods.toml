@@ -30,8 +30,7 @@ displayName="${mod_name}" #mandatory
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-# TODO: diseñar icon.png (64x64) propio de Vellumli antes de la primera subida a CurseForge, luego reactivar esta línea
-#logoFile="assets/${mod_id}/icon.png" #optional
+logoFile="assets/${mod_id}/icon.png" #optional
 
 # A text field displayed in the mod UI
 credits="Fork of Patchouli by Vazkii and williewillus (github.com/VazkiiMods/Patchouli), licensed CC BY-NC-SA 3.0. Not affiliated with or endorsed by the Patchouli authors." #optional
