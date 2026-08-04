@@ -64,7 +64,7 @@ Datos a usar al crear el proyecto en https://www.curseforge.com/ (Minecraft → 
 | **Repository URL** | `https://github.com/stalking-dragons/vellumli` (mirror público — confirmar tras configurar el mirror en GitLab) |
 | **Issue tracker** | `https://gitlab.com/stalking-dragons/minecraft/vellumli/-/issues` |
 | **Description** | Contenido de `docs/curseforge/project_description.md` (HTML) |
-| **Logo** | `assets/vellumli/icon.png` — **pendiente de diseñar**, no reutilizar el logo de Patchouli |
+| **Logo** | `assets/vellumli/icon.png` (64x64, listo) — subir manualmente en la ficha del proyecto CurseForge la versión de mayor resolución (512x512) generada junto al icono |
 | **Relaciones / dependencias** | Ninguna obligatoria (Vellumli es dependency-free, como el original) |
 
 Proyecto ya creado (`project_id=1638492`, nombre "Vellumli" — "Vellum" a secas estaba ya ocupado en CurseForge). Falta copiar el token de subida en la tabla de arriba.
