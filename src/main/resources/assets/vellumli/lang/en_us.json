@@ -1,0 +1,13 @@
+{
+  "itemGroup.vellumli": "Example Mod Tab",
+  "block.vellumli.example_block": "Example Block",
+  "item.vellumli.example_item": "Example Item",
+
+  "vellumli.configuration.title": "Vellumli Configs",
+  "vellumli.configuration.section.vellumli.common.toml": "Vellumli Configs",
+  "vellumli.configuration.section.vellumli.common.toml.title": "Vellumli Configs",
+  "vellumli.configuration.items": "Item List",
+  "vellumli.configuration.logDirtBlock": "Log Dirt Block",
+  "vellumli.configuration.magicNumberIntroduction": "Magic Number Text",
+  "vellumli.configuration.magicNumber": "Magic Number"
+}

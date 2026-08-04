@@ -1,4 +1,4 @@
-<h1 align="center">📖 Vellum</h1>
+<h1 align="center">📖 Vellumli</h1>
 
 <p align="center"><strong>Accessible, data-driven, dependency-free documentation for Minecraft.</strong></p>
 
@@ -10,7 +10,7 @@
 
 <h2>✨ Overview</h2>
 
-<p>Vellum lets modders and pack makers write in-game guidebooks for their content using nothing but data files — no Java, no dependency on any specific mod. Entries, categories, and multiblock/crafting-turn-in pages are defined in JSON and rendered as a fully navigable in-game book.</p>
+<p>Vellumli lets modders and pack makers write in-game guidebooks for their content using nothing but data files — no Java, no dependency on any specific mod. Entries, categories, and multiblock/crafting-turn-in pages are defined in JSON and rendered as a fully navigable in-game book.</p>
 
 <p>The mod is currently in early development (<code>0.0.0-beta.1</code>). The core book engine and page types are being ported first; the full feature set below reflects the target functionality inherited from Patchouli and will be enabled progressively across beta releases.</p>
 
@@ -34,7 +34,7 @@
 <p>Preview multiblock structures in 3D directly from the book, including a "ready to build" check against the player's current world.</p>
 
 <h3>🧩 Dependency-Free by Design</h3>
-<p>Vellum itself has no gameplay dependency on other mods — any mod (or datapack) can add its own book without needing to add code, only data.</p>
+<p>Vellumli itself has no gameplay dependency on other mods — any mod (or datapack) can add its own book without needing to add code, only data.</p>
 
 <br>
 
@@ -51,7 +51,7 @@
 
 <ol>
 <li>Install the mod on <strong>both client and server</strong>.</li>
-<li>Craft or obtain a book item associated with a Vellum-powered book.</li>
+<li>Craft or obtain a book item associated with a Vellumli-powered book.</li>
 <li>Author your own book by adding category/entry/page JSON files under a datapack, as documented in the wiki (coming soon).</li>
 </ol>
 

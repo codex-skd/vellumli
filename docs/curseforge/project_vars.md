@@ -4,9 +4,9 @@
 
 | Variable | Valor |
 |----------|-------|
-| `curseforge_project_id` | **PENDIENTE** — se rellena tras crear el proyecto en CurseForge (alta manual, ver abajo) |
-| `mod_id` | `vellum` |
-| `display_name` | `Vellum` |
+| `curseforge_project_id` | `1638492` |
+| `mod_id` | `vellumli` |
+| `display_name` | `Vellumli` |
 
 ## Tokens
 
@@ -23,7 +23,7 @@ Autenticación Core: cabecera `x-api-key`
 ## Variables para script (lectura automática)
 
 ```
-project_id = PENDIENTE
+project_id = 1638492
 api_token = PENDIENTE (copiar del token de cuenta)
 release_type = beta
 game_versions = 16498  # Minecraft 26.2 — verificar ID exacto en CurseForge al publicar
@@ -53,7 +53,7 @@ Datos a usar al crear el proyecto en https://www.curseforge.com/ (Minecraft → 
 
 | Campo | Valor |
 |---|---|
-| **Name** | Vellum |
+| **Name** | Vellumli |
 | **Summary** (short, ~1 línea) | Accessible, data-driven, dependency-free documentation for Minecraft. |
 | **Project Type** | Mod |
 | **Game** | Minecraft |
@@ -61,13 +61,13 @@ Datos a usar al crear el proyecto en https://www.curseforge.com/ (Minecraft → 
 | **Mod Loader** | NeoForge |
 | **License** | CC BY-NC-SA 3.0 (seleccionar "Attribution-NonCommercial-ShareAlike" si aparece como opción, o pegar el texto/enlace de `LICENSE` si CurseForge solo permite texto libre) |
 | **Client/Server side** | Both |
-| **Repository URL** | `https://github.com/stalking-dragons/vellum` (mirror público — confirmar tras configurar el mirror en GitLab) |
-| **Issue tracker** | `https://gitlab.com/stalking-dragons/minecraft/vellum/-/issues` |
+| **Repository URL** | `https://github.com/stalking-dragons/vellumli` (mirror público — confirmar tras configurar el mirror en GitLab) |
+| **Issue tracker** | `https://gitlab.com/stalking-dragons/minecraft/vellumli/-/issues` |
 | **Description** | Contenido de `docs/curseforge/project_description.md` (HTML) |
-| **Logo** | `assets/vellum/icon.png` — **pendiente de diseñar**, no reutilizar el logo de Patchouli |
-| **Relaciones / dependencias** | Ninguna obligatoria (Vellum es dependency-free, como el original) |
+| **Logo** | `assets/vellumli/icon.png` — **pendiente de diseñar**, no reutilizar el logo de Patchouli |
+| **Relaciones / dependencias** | Ninguna obligatoria (Vellumli es dependency-free, como el original) |
 
-Tras crear el proyecto, copiar el `project_id` asignado y el token de subida en la tabla de arriba.
+Proyecto ya creado (`project_id=1638492`, nombre "Vellumli" — "Vellum" a secas estaba ya ocupado en CurseForge). Falta copiar el token de subida en la tabla de arriba.
 
 ## Nota post-subida (manual, obligatorio)
 

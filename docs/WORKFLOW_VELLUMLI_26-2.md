@@ -1,7 +1,7 @@
-# Flujo de trabajo — Vellum (NeoForge)
+# Flujo de trabajo — Vellumli (NeoForge)
 
 > **Versión del workflow**: 1.16.0 (codex-docs)
-> Este archivo pertenece al proyecto **Vellum**. Cambios aquí solo afectan a este proyecto.
+> Este archivo pertenece al proyecto **Vellumli**. Cambios aquí solo afectan a este proyecto.
 > **Trabaja directamente con este archivo**: es el workflow operativo del mod, autocontenido. No leas `codex-docs/WORKFLOW_AGENT.md` ni `WORKFLOW_GENERIC.md` de forma rutinaria.
 > On-demand (solo si la tarea lo necesita): `codex-docs/reference/CURSEFORGE.md` (formato HTML al publicar), `codex-docs/reference/GRAPHIFY.md` (backend LLM de Graphify), `codex-docs/reference/REPO_SETUP.md` (setup único de repo).
 
@@ -9,30 +9,30 @@
 
 | Dato | Valor |
 |---|---|
-| Mod ID (`gradle.properties`) | `vellum` |
-| Clase principal | `Vellum` |
-| Display name (Title Case) | `Vellum` |
+| Mod ID (`gradle.properties`) | `vellumli` |
+| Clase principal | `Vellumli` |
+| Display name (Title Case) | `Vellumli` |
 | Versiones de Minecraft | `26.2` |
 | Rama | `minecraft/26.2/neoforge-26.2.0.32-beta/production` |
 
 ### Notas específicas de este mod
 
 - **Fork de**: [Patchouli](https://github.com/VazkiiMods/Patchouli) por Vazkii y williewillus. Referencia original: `patchouli-neoforge-26.1-94.jar` (mod id `patchouli`, package `vazkii.patchouli`, versión 26.1-94 para MC 26.1/NeoForge).
-- **package**: `com.skd.vellum`
+- **package**: `com.skd.vellumli`
 - **Minecraft / NeoForge**: `26.2` / `26.2.0.32-beta` (heredado del esqueleto `codex-docs/mod_template/26.2-26.2.0.32-beta`, no actualizar sin pedirlo explícitamente)
-- **Licencia — ⚠️ excepción a la convención habitual**: Patchouli está licenciado **CC BY-NC-SA 3.0** (Atribución-NoComercial-CompartirIgual), no MIT/permisiva como otros forks de este workspace. La cláusula *ShareAlike* obliga a que Vellum se distribuya bajo **la misma licencia** (no relicenciar como "All Rights Reserved" ni otra). La cláusula *NonCommercial* prohíbe cualquier monetización del mod. `mod_license` en `gradle.properties` y `LICENSE` en la raíz deben permanecer en CC BY-NC-SA 3.0 durante todo el desarrollo.
+- **Licencia — ⚠️ excepción a la convención habitual**: Patchouli está licenciado **CC BY-NC-SA 3.0** (Atribución-NoComercial-CompartirIgual), no MIT/permisiva como otros forks de este workspace. La cláusula *ShareAlike* obliga a que Vellumli se distribuya bajo **la misma licencia** (no relicenciar como "All Rights Reserved" ni otra). La cláusula *NonCommercial* prohíbe cualquier monetización del mod. `mod_license` en `gradle.properties` y `LICENSE` en la raíz deben permanecer en CC BY-NC-SA 3.0 durante todo el desarrollo.
 - **Atribución obligatoria**: mantener "fork of Patchouli by Vazkii and williewillus" en `README.md`, `docs/curseforge/project_description.md` y `credits` de `neoforge.mods.toml` durante todo el desarrollo — no eliminar al renombrar clases o paquetes.
-- **Sin residuos del original**: el mod original usa el package `vazkii.patchouli` y namespace de recursos `patchouli:` — todo el código, assets y datos portados deben quedar bajo `com.skd.vellum` / `vellum:`, sin nombres de clases, métodos ni variables calcados del original.
-- **Icono pendiente**: `assets/vellum/icon.png` aún no existe (línea `logoFile` comentada en `neoforge.mods.toml`) — diseñar uno propio antes de la primera subida a CurseForge, no reutilizar el logo de Patchouli.
+- **Sin residuos del original**: el mod original usa el package `vazkii.patchouli` y namespace de recursos `patchouli:` — todo el código, assets y datos portados deben quedar bajo `com.skd.vellumli` / `vellumli:`, sin nombres de clases, métodos ni variables calcados del original.
+- **Icono pendiente**: `assets/vellumli/icon.png` aún no existe (línea `logoFile` comentada en `neoforge.mods.toml`) — diseñar uno propio antes de la primera subida a CurseForge, no reutilizar el logo de Patchouli.
 
 ## Convenciones de nomenclatura
 
 | Convención | Uso | Ejemplo |
 |---|---|---|
-| **snake_case** | `mod_id`, assets/, packages Java | `vellum` |
-| **PascalCase** | Clases Java principales | `Vellum` |
-| **camelCase** | Variables, métodos, config keys | `vellumConfig` |
-| **Title Case** | Display name (README, CHANGELOG, docs, CurseForge) | `Vellum` |
+| **snake_case** | `mod_id`, assets/, packages Java | `vellumli` |
+| **PascalCase** | Clases Java principales | `Vellumli` |
+| **camelCase** | Variables, métodos, config keys | `vellumliConfig` |
+| **Title Case** | Display name (README, CHANGELOG, docs, CurseForge) | `Vellumli` |
 
 ## Organización y ramas
 
