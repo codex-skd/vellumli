@@ -1,0 +1,13 @@
+{
+  "itemGroup.vellum": "Example Mod Tab",
+  "block.vellum.example_block": "Example Block",
+  "item.vellum.example_item": "Example Item",
+
+  "vellum.configuration.title": "Vellum Configs",
+  "vellum.configuration.section.vellum.common.toml": "Vellum Configs",
+  "vellum.configuration.section.vellum.common.toml.title": "Vellum Configs",
+  "vellum.configuration.items": "Item List",
+  "vellum.configuration.logDirtBlock": "Log Dirt Block",
+  "vellum.configuration.magicNumberIntroduction": "Magic Number Text",
+  "vellum.configuration.magicNumber": "Magic Number"
+}
