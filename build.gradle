@@ -32,7 +32,7 @@ repositories {
 }
 
 base {
-    archivesName = mod_id
+    archivesName = "${mod_id}-${minecraft_version}-${mod_framework}"
 }
 
 // Mojang ships Java 25 to end users in 26.2, so mods should target Java 25.
@@ -148,7 +148,7 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
     ]
     inputs.properties replaceProperties
     expand replaceProperties
-    from "src/main/templates"
+    from "src/main/resources/templates"
     into "build/generated/sources/modMetadata"
 }
 // Include the output of "generateModMetadata" as an input directory for the build
