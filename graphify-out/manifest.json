@@ -1003,5 +1003,150 @@
     "mtime": 1785804790.068446,
     "ast_hash": "6cdded6861d20a25e923ba7710039666",
     "semantic_hash": "6cdded6861d20a25e923ba7710039666"
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1785804238.2251093,
+    "ast_hash": "a621ab49cd5f87f0b6a9cde8e2f446f0",
+    "semantic_hash": ""
+  },
+  ".gitlab-ci.yml": {
+    "mtime": 1785804131.0678668,
+    "ast_hash": "402e112fb0a27fd876291ce11aac8792",
+    "semantic_hash": ""
+  },
+  "CHANGELOG.md": {
+    "mtime": 1785972327.664668,
+    "ast_hash": "e5b74694d994c70dfff748b49bc6c294",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1785804227.1653433,
+    "ast_hash": "6f84e07917ae1cdce061ad5ee85188c0",
+    "semantic_hash": ""
+  },
+  "docs/WORKFLOW_VELLUMLI_26-2.md": {
+    "mtime": 1785804238.2703857,
+    "ast_hash": "74b146f3425c4435e8df7f4ca00110de",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/project_description.md": {
+    "mtime": 1785804227.2497993,
+    "ast_hash": "3b43de892a236badcb26fb40d190da90",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/project_vars.md": {
+    "mtime": 1785845420.1832345,
+    "ast_hash": "c913c791980887c4015efeca872a6514",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.1.md": {
+    "mtime": 1785804227.367711,
+    "ast_hash": "9578813dad4ff7875369661c2b8127c0",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.2.md": {
+    "mtime": 1785845627.7075284,
+    "ast_hash": "73208c60673971a9706e36ead5cfed0c",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.3.md": {
+    "mtime": 1785972327.6654544,
+    "ast_hash": "da79330094dd8358c50a35658ea18ede",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/icon.png": {
+    "mtime": 1785845392.7553737,
+    "ast_hash": "f8c0be6a51e7f350e96af5860c33715b",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/book_blue.png": {
+    "mtime": 1785804790.0709107,
+    "ast_hash": "ab703d98b4866b81f3be3b3a5d11c61f",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/book_brown.png": {
+    "mtime": 1785804790.072429,
+    "ast_hash": "dfcafe64ce500445196e8b6e097d0bf7",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/book_cyan.png": {
+    "mtime": 1785804790.072429,
+    "ast_hash": "8342e8f244ddde2b95d62729b956ecfc",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/book_gray.png": {
+    "mtime": 1785804790.072429,
+    "ast_hash": "a5aa56ae9a89b61fd2df55f2a1da4dc6",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/book_green.png": {
+    "mtime": 1785804790.0739448,
+    "ast_hash": "28c5838a6e2f1b9074d0fe3dc5a8d12f",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/book_purple.png": {
+    "mtime": 1785804790.0739448,
+    "ast_hash": "3d974a194b85c2e48867321740db80e6",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/book_red.png": {
+    "mtime": 1785804790.0739448,
+    "ast_hash": "6b32f50b9224640f3b98e9b30f964e70",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/crafting.png": {
+    "mtime": 1785804790.075455,
+    "ast_hash": "27dc7f34d879d2fe2f3495d838fc075c",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/demo_image.png": {
+    "mtime": 1785804852.4158077,
+    "ast_hash": "45b27911d9559fb624372aec026fe94c",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/inventory_button.png": {
+    "mtime": 1785804790.075455,
+    "ast_hash": "6e24946a6f9586a74b05a32d1376e3f2",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/gui/page_filler.png": {
+    "mtime": 1785804790.075455,
+    "ast_hash": "08997c2793514dce48403af80490cfd3",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/item/book_blue.png": {
+    "mtime": 1785804790.078549,
+    "ast_hash": "8b9a6eba5526da24302200a22ab4fcc8",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/item/book_brown.png": {
+    "mtime": 1785804790.078549,
+    "ast_hash": "6ed7614ecc9d3cfccc3c96b2178e7b78",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/item/book_cyan.png": {
+    "mtime": 1785804790.078549,
+    "ast_hash": "0e1d8bc1290f5feddeb1eb26fac80463",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/item/book_gray.png": {
+    "mtime": 1785804790.0802355,
+    "ast_hash": "299281fa156de1ee6db0bc7cd6bd0fe4",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/item/book_green.png": {
+    "mtime": 1785804790.0802355,
+    "ast_hash": "86601dd897f0b0e7a345b65c58b76765",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/item/book_purple.png": {
+    "mtime": 1785804790.0802355,
+    "ast_hash": "8092040fb30c5f0450a8e08979b7806e",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/vellumli/textures/item/book_red.png": {
+    "mtime": 1785804790.0817566,
+    "ast_hash": "95450eb7d6d7d18404d9d019eceadfe4",
+    "semantic_hash": ""
   }
 }
