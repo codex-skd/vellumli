@@ -1015,8 +1015,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1785972327.664668,
-    "ast_hash": "e5b74694d994c70dfff748b49bc6c294",
+    "mtime": 1786376977.9092903,
+    "ast_hash": "8b5457649e2aa839f51110b76598d787",
     "semantic_hash": ""
   },
   "README.md": {
@@ -1035,8 +1035,8 @@
     "semantic_hash": ""
   },
   "docs/curseforge/project_vars.md": {
-    "mtime": 1785845420.1832345,
-    "ast_hash": "c913c791980887c4015efeca872a6514",
+    "mtime": 1786377940.4958396,
+    "ast_hash": "5996ef2f3183d9bd11166715721d2a6e",
     "semantic_hash": ""
   },
   "docs/curseforge/versions/0.0.0-beta.1.md": {
@@ -1147,6 +1147,11 @@
   "src/main/resources/assets/vellumli/textures/item/book_red.png": {
     "mtime": 1785804790.0817566,
     "ast_hash": "95450eb7d6d7d18404d9d019eceadfe4",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.0.0.md": {
+    "mtime": 1786376982.0102139,
+    "ast_hash": "ff9d076ecc1abefccb6a911b038e055f",
     "semantic_hash": ""
   }
 }
