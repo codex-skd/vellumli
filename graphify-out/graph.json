@@ -226,7 +226,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_vellumliclient",
-      "community": 44,
+      "community": 8,
       "norm_label": "vellumliclient.java"
     },
     {
@@ -236,7 +236,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_vellumliclient_vellumliclient",
-      "community": 44,
+      "community": 8,
       "norm_label": "vellumliclient"
     },
     {
@@ -246,7 +246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_vellumliclient_java_mod",
-      "community": 44,
+      "community": 8,
       "norm_label": "mod"
     },
     {
@@ -256,7 +256,7 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_vellumliclient_vellumliclient_vellumliclient",
-      "community": 44,
+      "community": 8,
       "norm_label": ".vellumliclient()"
     },
     {
@@ -266,7 +266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_vellumliclient_java_ieventbus",
-      "community": 44,
+      "community": 8,
       "norm_label": "ieventbus"
     },
     {
@@ -276,7 +276,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_bookcontentsreloadevent",
-      "community": 43,
+      "community": 56,
       "norm_label": "bookcontentsreloadevent.java"
     },
     {
@@ -286,7 +286,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_bookcontentsreloadevent_bookcontentsreloadevent",
-      "community": 43,
+      "community": 56,
       "norm_label": "bookcontentsreloadevent"
     },
     {
@@ -296,7 +296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "event",
-      "community": 43,
+      "community": 56,
       "norm_label": "event"
     },
     {
@@ -306,7 +306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_bookcontentsreloadevent_java_identifier",
-      "community": 43,
+      "community": 56,
       "norm_label": "identifier"
     },
     {
@@ -316,7 +316,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_bookcontentsreloadevent_bookcontentsreloadevent_bookcontentsreloadevent",
-      "community": 43,
+      "community": 56,
       "norm_label": ".bookcontentsreloadevent()"
     },
     {
@@ -326,7 +326,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_bookcontentsreloadevent_bookcontentsreloadevent_getbook",
-      "community": 43,
+      "community": 56,
       "norm_label": ".getbook()"
     },
     {
@@ -526,7 +526,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icomponentprocessor_java_screen",
-      "community": 62,
+      "community": 25,
       "norm_label": "screen"
     },
     {
@@ -816,7 +816,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icustomcomponent",
-      "community": 27,
+      "community": 11,
       "norm_label": "icustomcomponent.java"
     },
     {
@@ -826,7 +826,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icustomcomponent_icustomcomponent",
-      "community": 27,
+      "community": 11,
       "norm_label": "icustomcomponent"
     },
     {
@@ -836,7 +836,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icustomcomponent_icustomcomponent_build",
-      "community": 27,
+      "community": 11,
       "norm_label": ".build()"
     },
     {
@@ -846,7 +846,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icustomcomponent_icustomcomponent_extractrenderstate",
-      "community": 27,
+      "community": 11,
       "norm_label": ".extractrenderstate()"
     },
     {
@@ -856,7 +856,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icustomcomponent_java_guigraphicsextractor",
-      "community": 27,
+      "community": 11,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -866,7 +866,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icustomcomponent_icustomcomponent_ondisplayed",
-      "community": 27,
+      "community": 11,
       "norm_label": ".ondisplayed()"
     },
     {
@@ -876,7 +876,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icustomcomponent_icustomcomponent_mouseclicked",
-      "community": 27,
+      "community": 11,
       "norm_label": ".mouseclicked()"
     },
     {
@@ -886,7 +886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_icustomcomponent_java_mousebuttonevent",
-      "community": 27,
+      "community": 11,
       "norm_label": "mousebuttonevent"
     },
     {
@@ -1156,7 +1156,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_istatematcher_istatematcher",
-      "community": 46,
+      "community": 6,
       "norm_label": "istatematcher"
     },
     {
@@ -1306,7 +1306,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariable_ivariable",
-      "community": 19,
+      "community": 57,
       "norm_label": "ivariable"
     },
     {
@@ -1426,7 +1426,7 @@
       "source_location": "L123",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariable_ivariable_from",
-      "community": 19,
+      "community": 77,
       "norm_label": ".from()"
     },
     {
@@ -1466,7 +1466,7 @@
       "source_location": "L172",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariable_ivariable_empty",
-      "community": 19,
+      "community": 27,
       "norm_label": ".empty()"
     },
     {
@@ -1546,7 +1546,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariableprovider",
-      "community": 62,
+      "community": 74,
       "norm_label": "ivariableprovider.java"
     },
     {
@@ -1556,7 +1556,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariableprovider_ivariableprovider",
-      "community": 62,
+      "community": 74,
       "norm_label": "ivariableprovider"
     },
     {
@@ -1586,7 +1586,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariableprovider_ivariableprovider_has",
-      "community": 62,
+      "community": 74,
       "norm_label": ".has()"
     },
     {
@@ -1656,7 +1656,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariablesavailablecallback",
-      "community": 50,
+      "community": 27,
       "norm_label": "ivariablesavailablecallback.java"
     },
     {
@@ -1666,7 +1666,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariablesavailablecallback_ivariablesavailablecallback",
-      "community": 50,
+      "community": 27,
       "norm_label": "ivariablesavailablecallback"
     },
     {
@@ -1676,7 +1676,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariablesavailablecallback_ivariablesavailablecallback_onvariablesavailable",
-      "community": 50,
+      "community": 27,
       "norm_label": ".onvariablesavailable()"
     },
     {
@@ -1686,7 +1686,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_ivariablesavailablecallback_java_provider",
-      "community": 50,
+      "community": 27,
       "norm_label": "provider"
     },
     {
@@ -1856,7 +1856,7 @@
       "source_location": "L50",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_vellumliapi_get",
-      "community": 64,
+      "community": 2,
       "norm_label": ".get()"
     },
     {
@@ -1896,7 +1896,7 @@
       "source_location": "L71",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_ivellumliapi_getconfig",
-      "community": 51,
+      "community": 7,
       "norm_label": ".getconfig()"
     },
     {
@@ -2216,7 +2216,7 @@
       "source_location": "L241",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_ivellumliapi_predicatematcher",
-      "community": 46,
+      "community": 10,
       "norm_label": ".predicatematcher()"
     },
     {
@@ -2226,7 +2226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_java_blockstate",
-      "community": 46,
+      "community": 10,
       "norm_label": "blockstate"
     },
     {
@@ -2236,7 +2236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_java_block",
-      "community": 46,
+      "community": 10,
       "norm_label": "block"
     },
     {
@@ -2246,7 +2246,7 @@
       "source_location": "L253",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_ivellumliapi_statematcher",
-      "community": 46,
+      "community": 10,
       "norm_label": ".statematcher()"
     },
     {
@@ -2256,7 +2256,7 @@
       "source_location": "L259",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_ivellumliapi_propertymatcher",
-      "community": 46,
+      "community": 10,
       "norm_label": ".propertymatcher()"
     },
     {
@@ -2266,7 +2266,7 @@
       "source_location": "L265",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_ivellumliapi_looseblockmatcher",
-      "community": 46,
+      "community": 10,
       "norm_label": ".looseblockmatcher()"
     },
     {
@@ -2276,7 +2276,7 @@
       "source_location": "L271",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_ivellumliapi_strictblockmatcher",
-      "community": 46,
+      "community": 10,
       "norm_label": ".strictblockmatcher()"
     },
     {
@@ -2286,7 +2286,7 @@
       "source_location": "L277",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_ivellumliapi_displayonlymatcher",
-      "community": 46,
+      "community": 10,
       "norm_label": ".displayonlymatcher()"
     },
     {
@@ -2296,7 +2296,7 @@
       "source_location": "L288",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_ivellumliapi_tagmatcher",
-      "community": 46,
+      "community": 10,
       "norm_label": ".tagmatcher()"
     },
     {
@@ -2306,7 +2306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliapi_java_tagkey",
-      "community": 46,
+      "community": 10,
       "norm_label": "tagkey"
     },
     {
@@ -2346,7 +2346,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliconfigaccess_vellumliconfigaccess",
-      "community": 51,
+      "community": 7,
       "norm_label": "vellumliconfigaccess"
     },
     {
@@ -2356,7 +2356,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliconfigaccess_vellumliconfigaccess_disableadvancementlocking",
-      "community": 51,
+      "community": 7,
       "norm_label": ".disableadvancementlocking()"
     },
     {
@@ -2366,7 +2366,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliconfigaccess_vellumliconfigaccess_noadvancementbooks",
-      "community": 51,
+      "community": 7,
       "norm_label": ".noadvancementbooks()"
     },
     {
@@ -2376,7 +2376,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliconfigaccess_vellumliconfigaccess_testingmode",
-      "community": 51,
+      "community": 7,
       "norm_label": ".testingmode()"
     },
     {
@@ -2386,7 +2386,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliconfigaccess_vellumliconfigaccess_inventorybuttonbook",
-      "community": 51,
+      "community": 7,
       "norm_label": ".inventorybuttonbook()"
     },
     {
@@ -2396,7 +2396,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliconfigaccess_vellumliconfigaccess_useshiftforquicklookup",
-      "community": 51,
+      "community": 7,
       "norm_label": ".useshiftforquicklookup()"
     },
     {
@@ -2416,7 +2416,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_api_vellumliconfigaccess_vellumliconfigaccess_quicklookuptime",
-      "community": 51,
+      "community": 7,
       "norm_label": ".quicklookuptime()"
     },
     {
@@ -3276,7 +3276,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty",
-      "community": 48,
+      "community": 28,
       "norm_label": "bookcompletionmodelproperty.java"
     },
     {
@@ -3286,7 +3286,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_bookcompletionmodelproperty",
-      "community": 48,
+      "community": 28,
       "norm_label": "bookcompletionmodelproperty"
     },
     {
@@ -3296,7 +3296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "rangeselectitemmodelproperty",
-      "community": 48,
+      "community": 28,
       "norm_label": "rangeselectitemmodelproperty"
     },
     {
@@ -3306,7 +3306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_java_identifier",
-      "community": 48,
+      "community": 28,
       "norm_label": "identifier"
     },
     {
@@ -3316,7 +3316,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_java_mapcodec",
-      "community": 48,
+      "community": 28,
       "norm_label": "mapcodec"
     },
     {
@@ -3326,7 +3326,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_bookcompletionmodelproperty_get",
-      "community": 48,
+      "community": 28,
       "norm_label": ".get()"
     },
     {
@@ -3336,7 +3336,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_java_itemstack",
-      "community": 48,
+      "community": 28,
       "norm_label": "itemstack"
     },
     {
@@ -3346,7 +3346,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_java_clientlevel",
-      "community": 48,
+      "community": 28,
       "norm_label": "clientlevel"
     },
     {
@@ -3356,7 +3356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_java_itemowner",
-      "community": 48,
+      "community": 28,
       "norm_label": "itemowner"
     },
     {
@@ -3366,7 +3366,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_java_override",
-      "community": 48,
+      "community": 28,
       "norm_label": "override"
     },
     {
@@ -3376,7 +3376,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookcompletionmodelproperty_bookcompletionmodelproperty_type",
-      "community": 48,
+      "community": 28,
       "norm_label": ".type()"
     },
     {
@@ -3386,7 +3386,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel",
-      "community": 3,
+      "community": 28,
       "norm_label": "bookmodel.java"
     },
     {
@@ -3396,7 +3396,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_bookmodel",
-      "community": 3,
+      "community": 28,
       "norm_label": "bookmodel"
     },
     {
@@ -3406,7 +3406,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "itemmodel",
-      "community": 3,
+      "community": 28,
       "norm_label": "itemmodel"
     },
     {
@@ -3416,7 +3416,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_bookmodel_bookmodel",
-      "community": 3,
+      "community": 28,
       "norm_label": ".bookmodel()"
     },
     {
@@ -3426,7 +3426,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_bookmodel_update",
-      "community": 3,
+      "community": 28,
       "norm_label": ".update()"
     },
     {
@@ -3436,7 +3436,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "itemstackrenderstate",
-      "community": 3,
+      "community": 28,
       "norm_label": "itemstackrenderstate"
     },
     {
@@ -3446,7 +3446,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_java_itemstack",
-      "community": 3,
+      "community": 28,
       "norm_label": "itemstack"
     },
     {
@@ -3456,7 +3456,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "itemmodelresolver",
-      "community": 3,
+      "community": 28,
       "norm_label": "itemmodelresolver"
     },
     {
@@ -3466,7 +3466,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "itemdisplaycontext",
-      "community": 3,
+      "community": 28,
       "norm_label": "itemdisplaycontext"
     },
     {
@@ -3476,7 +3476,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_java_clientlevel",
-      "community": 3,
+      "community": 28,
       "norm_label": "clientlevel"
     },
     {
@@ -3486,7 +3486,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_java_itemowner",
-      "community": 3,
+      "community": 28,
       "norm_label": "itemowner"
     },
     {
@@ -3496,7 +3496,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_java_override",
-      "community": 3,
+      "community": 28,
       "norm_label": "override"
     },
     {
@@ -3506,7 +3506,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_unbaked",
-      "community": 3,
+      "community": 28,
       "norm_label": "unbaked"
     },
     {
@@ -3516,7 +3516,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_java_identifier",
-      "community": 3,
+      "community": 28,
       "norm_label": "identifier"
     },
     {
@@ -3526,7 +3526,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_java_mapcodec",
-      "community": 3,
+      "community": 28,
       "norm_label": "mapcodec"
     },
     {
@@ -3536,7 +3536,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_unbaked_type",
-      "community": 3,
+      "community": 28,
       "norm_label": ".type()"
     },
     {
@@ -3546,7 +3546,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_unbaked_bake",
-      "community": 3,
+      "community": 28,
       "norm_label": ".bake()"
     },
     {
@@ -3556,7 +3556,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "bakingcontext",
-      "community": 3,
+      "community": 28,
       "norm_label": "bakingcontext"
     },
     {
@@ -3566,7 +3566,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "matrix4fc",
-      "community": 3,
+      "community": 28,
       "norm_label": "matrix4fc"
     },
     {
@@ -3576,7 +3576,7 @@
       "source_location": "L58",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_bookmodel_unbaked_resolvedependencies",
-      "community": 3,
+      "community": 28,
       "norm_label": ".resolvedependencies()"
     },
     {
@@ -3586,7 +3586,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "resolver",
-      "community": 3,
+      "community": 28,
       "norm_label": "resolver"
     },
     {
@@ -3626,7 +3626,7 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientadvancements_clientadvancements_hasdone",
-      "community": 56,
+      "community": 17,
       "norm_label": ".hasdone()"
     },
     {
@@ -3796,7 +3796,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes",
-      "community": 0,
+      "community": 8,
       "norm_label": "clientrecipes.java"
     },
     {
@@ -3806,7 +3806,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_clientrecipes",
-      "community": 0,
+      "community": 8,
       "norm_label": "clientrecipes"
     },
     {
@@ -3816,7 +3816,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_java_recipetype",
-      "community": 0,
+      "community": 8,
       "norm_label": "recipetype"
     },
     {
@@ -3826,7 +3826,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "recipeholder",
-      "community": 0,
+      "community": 8,
       "norm_label": "recipeholder"
     },
     {
@@ -3836,7 +3836,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_java_resourcekey",
-      "community": 0,
+      "community": 8,
       "norm_label": "resourcekey"
     },
     {
@@ -3846,7 +3846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_java_recipe",
-      "community": 0,
+      "community": 8,
       "norm_label": "recipe"
     },
     {
@@ -3856,7 +3856,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_clientrecipes_clientrecipes",
-      "community": 0,
+      "community": 8,
       "norm_label": ".clientrecipes()"
     },
     {
@@ -3866,7 +3866,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_clientrecipes_receivedrecipes",
-      "community": 0,
+      "community": 8,
       "norm_label": ".receivedrecipes()"
     },
     {
@@ -3876,7 +3876,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_clientrecipes_getrecipebyid",
-      "community": 0,
+      "community": 8,
       "norm_label": ".getrecipebyid()"
     },
     {
@@ -3886,7 +3886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_java_suppresswarnings",
-      "community": 0,
+      "community": 8,
       "norm_label": "suppresswarnings"
     },
     {
@@ -3896,7 +3896,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_clientrecipes_getrecipesbytype",
-      "community": 0,
+      "community": 8,
       "norm_label": ".getrecipesbytype()"
     },
     {
@@ -3906,7 +3906,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientrecipes_java_identifier",
-      "community": 0,
+      "community": 8,
       "norm_label": "identifier"
     },
     {
@@ -3916,7 +3916,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientticker",
-      "community": 44,
+      "community": 8,
       "norm_label": "clientticker.java"
     },
     {
@@ -3926,7 +3926,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientticker_clientticker",
-      "community": 44,
+      "community": 8,
       "norm_label": "clientticker"
     },
     {
@@ -3936,7 +3936,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientticker_clientticker_calcdelta",
-      "community": 44,
+      "community": 8,
       "norm_label": ".calcdelta()"
     },
     {
@@ -3946,7 +3946,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientticker_clientticker_rendertickstart",
-      "community": 44,
+      "community": 8,
       "norm_label": ".rendertickstart()"
     },
     {
@@ -3956,7 +3956,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientticker_clientticker_rendertickend",
-      "community": 44,
+      "community": 8,
       "norm_label": ".rendertickend()"
     },
     {
@@ -3966,7 +3966,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientticker_clientticker_endclienttick",
-      "community": 44,
+      "community": 8,
       "norm_label": ".endclienttick()"
     },
     {
@@ -3976,7 +3976,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_clientticker_java_minecraft",
-      "community": 44,
+      "community": 8,
       "norm_label": "minecraft"
     },
     {
@@ -4086,7 +4086,7 @@
       "source_location": "L93",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_persistentdata_bookmark",
-      "community": 40,
+      "community": 26,
       "norm_label": "bookmark"
     },
     {
@@ -4106,7 +4106,7 @@
       "source_location": "L99",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_persistentdata_bookmark_getentry",
-      "community": 40,
+      "community": 26,
       "norm_label": ".getentry()"
     },
     {
@@ -4116,7 +4116,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_persistentdata_java_nullable",
-      "community": 40,
+      "community": 26,
       "norm_label": "nullable"
     },
     {
@@ -4126,7 +4126,7 @@
       "source_location": "L103",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_base_persistentdata_bookmark_serialize",
-      "community": 40,
+      "community": 26,
       "norm_label": ".serialize()"
     },
     {
@@ -4446,7 +4446,7 @@
       "source_location": "L135",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookcategory_bookcategory_canadd",
-      "community": 51,
+      "community": 7,
       "norm_label": ".canadd()"
     },
     {
@@ -5186,7 +5186,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookcontentsbuilder_bookcontentsbuilder_bookcontentsbuilder",
-      "community": 13,
+      "community": 49,
       "norm_label": ".bookcontentsbuilder()"
     },
     {
@@ -5226,7 +5226,7 @@
       "source_location": "L68",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookcontentsbuilder_bookcontentsbuilder_addrecipemapping",
-      "community": 17,
+      "community": 30,
       "norm_label": ".addrecipemapping()"
     },
     {
@@ -5236,7 +5236,7 @@
       "source_location": "L72",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookcontentsbuilder_bookcontentsbuilder_loadandbuildfor",
-      "community": 13,
+      "community": 49,
       "norm_label": ".loadandbuildfor()"
     },
     {
@@ -5246,7 +5246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookcontentsbuilder_java_level",
-      "community": 13,
+      "community": 49,
       "norm_label": "level"
     },
     {
@@ -5266,7 +5266,7 @@
       "source_location": "L88",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookcontentsbuilder_bookcontentsbuilder_build",
-      "community": 13,
+      "community": 49,
       "norm_label": ".build()"
     },
     {
@@ -5336,7 +5336,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry",
-      "community": 17,
+      "community": 26,
       "norm_label": "bookentry.java"
     },
     {
@@ -5406,7 +5406,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_java_mutablecomponent",
-      "community": 17,
+      "community": 26,
       "norm_label": "mutablecomponent"
     },
     {
@@ -5416,7 +5416,7 @@
       "source_location": "L108",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_getpages",
-      "community": 18,
+      "community": 23,
       "norm_label": ".getpages()"
     },
     {
@@ -5426,7 +5426,7 @@
       "source_location": "L114",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_getpagefromanchor",
-      "community": 18,
+      "community": 23,
       "norm_label": ".getpagefromanchor()"
     },
     {
@@ -5436,7 +5436,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_ispriority",
-      "community": 34,
+      "community": 17,
       "norm_label": ".ispriority()"
     },
     {
@@ -5446,7 +5446,7 @@
       "source_location": "L132",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_geticon",
-      "community": 40,
+      "community": 17,
       "norm_label": ".geticon()"
     },
     {
@@ -5466,7 +5466,7 @@
       "source_location": "L146",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_getcategory",
-      "community": 41,
+      "community": 22,
       "norm_label": ".getcategory()"
     },
     {
@@ -5476,7 +5476,7 @@
       "source_location": "L150",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_updatelockstatus",
-      "community": 41,
+      "community": 17,
       "norm_label": ".updatelockstatus()"
     },
     {
@@ -5536,7 +5536,7 @@
       "source_location": "L192",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_canadd",
-      "community": 51,
+      "community": 7,
       "norm_label": ".canadd()"
     },
     {
@@ -5576,7 +5576,7 @@
       "source_location": "L232",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_build",
-      "community": 17,
+      "community": 30,
       "norm_label": ".build()"
     },
     {
@@ -5586,7 +5586,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_java_level",
-      "community": 17,
+      "community": 30,
       "norm_label": "level"
     },
     {
@@ -5596,7 +5596,7 @@
       "source_location": "L273",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_addrelevantstack",
-      "community": 17,
+      "community": 30,
       "norm_label": ".addrelevantstack()"
     },
     {
@@ -5606,7 +5606,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_java_itemstack",
-      "community": 17,
+      "community": 30,
       "norm_label": "itemstack"
     },
     {
@@ -5616,7 +5616,7 @@
       "source_location": "L287",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_getbook",
-      "community": 17,
+      "community": 23,
       "norm_label": ".getbook()"
     },
     {
@@ -5626,7 +5626,7 @@
       "source_location": "L291",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_getaddedby",
-      "community": 17,
+      "community": 26,
       "norm_label": ".getaddedby()"
     },
     {
@@ -5636,7 +5636,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_java_nullable",
-      "community": 17,
+      "community": 26,
       "norm_label": "nullable"
     },
     {
@@ -5656,7 +5656,7 @@
       "source_location": "L316",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookentry_bookentry_markreadstatedirty",
-      "community": 41,
+      "community": 17,
       "norm_label": ".markreadstatedirty()"
     },
     {
@@ -5856,7 +5856,7 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookpage_bookpage_build",
-      "community": 17,
+      "community": 23,
       "norm_label": ".build()"
     },
     {
@@ -5866,7 +5866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookpage_java_level",
-      "community": 17,
+      "community": 23,
       "norm_label": "level"
     },
     {
@@ -5876,7 +5876,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookpage_bookpage_ondisplayed",
-      "community": 18,
+      "community": 23,
       "norm_label": ".ondisplayed()"
     },
     {
@@ -5886,7 +5886,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookpage_bookpage_ispageunlocked",
-      "community": 56,
+      "community": 23,
       "norm_label": ".ispageunlocked()"
     },
     {
@@ -5896,7 +5896,7 @@
       "source_location": "L57",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookpage_bookpage_onhidden",
-      "community": 18,
+      "community": 23,
       "norm_label": ".onhidden()"
     },
     {
@@ -5956,7 +5956,7 @@
       "source_location": "L74",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookpage_bookpage_canadd",
-      "community": 51,
+      "community": 7,
       "norm_label": ".canadd()"
     },
     {
@@ -5996,7 +5996,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookreloadhook",
-      "community": 75,
+      "community": 8,
       "norm_label": "bookreloadhook.java"
     },
     {
@@ -6006,7 +6006,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookreloadhook_bookreloadhook",
-      "community": 75,
+      "community": 8,
       "norm_label": "bookreloadhook"
     },
     {
@@ -6016,7 +6016,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "resourcemanagerreloadlistener",
-      "community": 75,
+      "community": 8,
       "norm_label": "resourcemanagerreloadlistener"
     },
     {
@@ -6026,7 +6026,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookreloadhook_java_identifier",
-      "community": 75,
+      "community": 8,
       "norm_label": "identifier"
     },
     {
@@ -6036,7 +6036,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookreloadhook_bookreloadhook_onresourcemanagerreload",
-      "community": 75,
+      "community": 8,
       "norm_label": ".onresourcemanagerreload()"
     },
     {
@@ -6046,7 +6046,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookreloadhook_java_resourcemanager",
-      "community": 75,
+      "community": 8,
       "norm_label": "resourcemanager"
     },
     {
@@ -6056,7 +6056,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_bookreloadhook_java_override",
-      "community": 75,
+      "community": 8,
       "norm_label": "override"
     },
     {
@@ -6486,7 +6486,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_booktextrenderer_booktextrenderer_booktextrenderer",
-      "community": 32,
+      "community": 3,
       "norm_label": ".booktextrenderer()"
     },
     {
@@ -6496,7 +6496,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_booktextrenderer_java_component",
-      "community": 32,
+      "community": 3,
       "norm_label": "component"
     },
     {
@@ -6506,7 +6506,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_booktextrenderer_booktextrenderer_settext",
-      "community": 32,
+      "community": 3,
       "norm_label": ".settext()"
     },
     {
@@ -6606,7 +6606,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_java_component",
-      "community": 54,
+      "community": 9,
       "norm_label": "component"
     },
     {
@@ -6616,7 +6616,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_java_itemstack",
-      "community": 54,
+      "community": 9,
       "norm_label": "itemstack"
     },
     {
@@ -6636,7 +6636,7 @@
       "source_location": "L79",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_guibook",
-      "community": 54,
+      "community": 9,
       "norm_label": ".guibook()"
     },
     {
@@ -6646,7 +6646,7 @@
       "source_location": "L85",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_init",
-      "community": 9,
+      "community": 34,
       "norm_label": ".init()"
     },
     {
@@ -6656,7 +6656,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_java_override",
-      "community": 9,
+      "community": 34,
       "norm_label": "override"
     },
     {
@@ -6716,7 +6716,7 @@
       "source_location": "L153",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_extractbackground",
-      "community": 9,
+      "community": 34,
       "norm_label": ".extractbackground()"
     },
     {
@@ -6726,7 +6726,7 @@
       "source_location": "L156",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_addbookmarkbuttons",
-      "community": 9,
+      "community": 34,
       "norm_label": ".addbookmarkbuttons()"
     },
     {
@@ -6736,7 +6736,7 @@
       "source_location": "L178",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_removedrawablesif",
-      "community": 9,
+      "community": 34,
       "norm_label": ".removedrawablesif()"
     },
     {
@@ -6746,7 +6746,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_java_renderable",
-      "community": 9,
+      "community": 34,
       "norm_label": "renderable"
     },
     {
@@ -6756,7 +6756,7 @@
       "source_location": "L184",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_removedrawablesin",
-      "community": 9,
+      "community": 34,
       "norm_label": ".removedrawablesin()"
     },
     {
@@ -6776,7 +6776,7 @@
       "source_location": "L193",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_shouldaddaddbookmarkbutton",
-      "community": 9,
+      "community": 34,
       "norm_label": ".shouldaddaddbookmarkbutton()"
     },
     {
@@ -6786,7 +6786,7 @@
       "source_location": "L197",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_shouldaddmarkreadbutton",
-      "community": 9,
+      "community": 34,
       "norm_label": ".shouldaddmarkreadbutton()"
     },
     {
@@ -6796,7 +6796,7 @@
       "source_location": "L204",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_bookmarkthis",
-      "community": 9,
+      "community": 40,
       "norm_label": ".bookmarkthis()"
     },
     {
@@ -6816,7 +6816,7 @@
       "source_location": "L212",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_tick",
-      "community": 9,
+      "community": 34,
       "norm_label": ".tick()"
     },
     {
@@ -6866,7 +6866,7 @@
       "source_location": "L255",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_drawfromtexture",
-      "community": 34,
+      "community": 9,
       "norm_label": ".drawfromtexture()"
     },
     {
@@ -6876,7 +6876,7 @@
       "source_location": "L263",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_ispausescreen",
-      "community": 9,
+      "community": 34,
       "norm_label": ".ispausescreen()"
     },
     {
@@ -6886,7 +6886,7 @@
       "source_location": "L268",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_handlebuttonback",
-      "community": 9,
+      "community": 40,
       "norm_label": ".handlebuttonback()"
     },
     {
@@ -6896,7 +6896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_java_button",
-      "community": 9,
+      "community": 40,
       "norm_label": "button"
     },
     {
@@ -6906,7 +6906,7 @@
       "source_location": "L272",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_handlebuttonarrow",
-      "community": 9,
+      "community": 40,
       "norm_label": ".handlebuttonarrow()"
     },
     {
@@ -6916,7 +6916,7 @@
       "source_location": "L276",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_handlebuttonbookmark",
-      "community": 9,
+      "community": 40,
       "norm_label": ".handlebuttonbookmark()"
     },
     {
@@ -6926,7 +6926,7 @@
       "source_location": "L293",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_mouseclicked",
-      "community": 9,
+      "community": 40,
       "norm_label": ".mouseclicked()"
     },
     {
@@ -6936,7 +6936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_java_mousebuttonevent",
-      "community": 9,
+      "community": 40,
       "norm_label": "mousebuttonevent"
     },
     {
@@ -6946,7 +6946,7 @@
       "source_location": "L298",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_mouseclickedscaled",
-      "community": 9,
+      "community": 40,
       "norm_label": ".mouseclickedscaled()"
     },
     {
@@ -6956,7 +6956,7 @@
       "source_location": "L332",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_keypressed",
-      "community": 9,
+      "community": 40,
       "norm_label": ".keypressed()"
     },
     {
@@ -6966,7 +6966,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_java_keyevent",
-      "community": 9,
+      "community": 40,
       "norm_label": "keyevent"
     },
     {
@@ -6986,7 +6986,7 @@
       "source_location": "L358",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_back",
-      "community": 9,
+      "community": 40,
       "norm_label": ".back()"
     },
     {
@@ -7026,7 +7026,7 @@
       "source_location": "L396",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_canseepagebutton",
-      "community": 38,
+      "community": 9,
       "norm_label": ".canseepagebutton()"
     },
     {
@@ -7036,7 +7036,7 @@
       "source_location": "L400",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_canseebackbutton",
-      "community": 9,
+      "community": 40,
       "norm_label": ".canseebackbutton()"
     },
     {
@@ -7046,7 +7046,7 @@
       "source_location": "L404",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_settooltip",
-      "community": 54,
+      "community": 9,
       "norm_label": ".settooltip()"
     },
     {
@@ -7056,7 +7056,7 @@
       "source_location": "L412",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_settooltipstack",
-      "community": 54,
+      "community": 9,
       "norm_label": ".settooltipstack()"
     },
     {
@@ -7066,7 +7066,7 @@
       "source_location": "L417",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_ismouseinrelativerange",
-      "community": 1,
+      "community": 9,
       "norm_label": ".ismouseinrelativerange()"
     },
     {
@@ -7076,7 +7076,7 @@
       "source_location": "L427",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_getrelativex",
-      "community": 1,
+      "community": 9,
       "norm_label": ".getrelativex()"
     },
     {
@@ -7086,7 +7086,7 @@
       "source_location": "L434",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_getrelativey",
-      "community": 1,
+      "community": 9,
       "norm_label": ".getrelativey()"
     },
     {
@@ -7096,7 +7096,7 @@
       "source_location": "L438",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_drawprogressbar",
-      "community": 22,
+      "community": 9,
       "norm_label": ".drawprogressbar()"
     },
     {
@@ -7136,7 +7136,7 @@
       "source_location": "L517",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_getmaxallowedscale",
-      "community": 9,
+      "community": 34,
       "norm_label": ".getmaxallowedscale()"
     },
     {
@@ -7156,7 +7156,7 @@
       "source_location": "L525",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_drawseparator",
-      "community": 1,
+      "community": 9,
       "norm_label": ".drawseparator()"
     },
     {
@@ -7166,7 +7166,7 @@
       "source_location": "L533",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_drawlock",
-      "community": 34,
+      "community": 9,
       "norm_label": ".drawlock()"
     },
     {
@@ -7176,7 +7176,7 @@
       "source_location": "L537",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibook_guibook_drawmarking",
-      "community": 34,
+      "community": 9,
       "norm_label": ".drawmarking()"
     },
     {
@@ -7436,7 +7436,7 @@
       "source_location": "L49",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookentry_guibookentry_init",
-      "community": 18,
+      "community": 23,
       "norm_label": ".init()"
     },
     {
@@ -7456,7 +7456,7 @@
       "source_location": "L57",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookentry_guibookentry_onfirstopened",
-      "community": 18,
+      "community": 17,
       "norm_label": ".onfirstopened()"
     },
     {
@@ -7536,7 +7536,7 @@
       "source_location": "L133",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookentry_guibookentry_setuppages",
-      "community": 18,
+      "community": 23,
       "norm_label": ".setuppages()"
     },
     {
@@ -8226,7 +8226,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookhistory_guibookhistory",
-      "community": 79,
+      "community": 4,
       "norm_label": "guibookhistory"
     },
     {
@@ -8236,7 +8236,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookhistory_guibookhistory_guibookhistory",
-      "community": 79,
+      "community": 4,
       "norm_label": ".guibookhistory()"
     },
     {
@@ -8246,7 +8246,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookhistory_guibookhistory_getdescriptiontext",
-      "community": 79,
+      "community": 4,
       "norm_label": ".getdescriptiontext()"
     },
     {
@@ -8256,7 +8256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookhistory_java_override",
-      "community": 79,
+      "community": 4,
       "norm_label": "override"
     },
     {
@@ -8266,7 +8266,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookhistory_guibookhistory_shoulddrawprogressbar",
-      "community": 79,
+      "community": 4,
       "norm_label": ".shoulddrawprogressbar()"
     },
     {
@@ -8276,7 +8276,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookhistory_guibookhistory_shouldsortentrylist",
-      "community": 79,
+      "community": 4,
       "norm_label": ".shouldsortentrylist()"
     },
     {
@@ -8286,7 +8286,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookhistory_guibookhistory_getentries",
-      "community": 79,
+      "community": 4,
       "norm_label": ".getentries()"
     },
     {
@@ -8486,7 +8486,7 @@
       "source_location": "L192",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibooklanding_guibooklanding_makeerrortooltip",
-      "community": 54,
+      "community": 9,
       "norm_label": ".makeerrortooltip()"
     },
     {
@@ -8586,7 +8586,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter",
-      "community": 1,
+      "community": 63,
       "norm_label": "guibookwriter.java"
     },
     {
@@ -8596,7 +8596,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter",
-      "community": 1,
+      "community": 63,
       "norm_label": "guibookwriter"
     },
     {
@@ -8606,7 +8606,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_java_editbox",
-      "community": 1,
+      "community": 63,
       "norm_label": "editbox"
     },
     {
@@ -8616,7 +8616,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter_guibookwriter",
-      "community": 1,
+      "community": 63,
       "norm_label": ".guibookwriter()"
     },
     {
@@ -8626,7 +8626,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter_init",
-      "community": 1,
+      "community": 63,
       "norm_label": ".init()"
     },
     {
@@ -8636,7 +8636,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_java_override",
-      "community": 1,
+      "community": 63,
       "norm_label": "override"
     },
     {
@@ -8646,7 +8646,7 @@
       "source_location": "L46",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter_drawforegroundelements",
-      "community": 1,
+      "community": 63,
       "norm_label": ".drawforegroundelements()"
     },
     {
@@ -8656,7 +8656,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_java_guigraphicsextractor",
-      "community": 1,
+      "community": 63,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -8666,7 +8666,7 @@
       "source_location": "L59",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter_mouseclickedscaled",
-      "community": 1,
+      "community": 63,
       "norm_label": ".mouseclickedscaled()"
     },
     {
@@ -8676,7 +8676,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_java_mousebuttonevent",
-      "community": 1,
+      "community": 63,
       "norm_label": "mousebuttonevent"
     },
     {
@@ -8686,7 +8686,7 @@
       "source_location": "L74",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter_keypressed",
-      "community": 1,
+      "community": 63,
       "norm_label": ".keypressed()"
     },
     {
@@ -8696,7 +8696,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_java_keyevent",
-      "community": 1,
+      "community": 63,
       "norm_label": "keyevent"
     },
     {
@@ -8706,7 +8706,7 @@
       "source_location": "L84",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter_chartyped",
-      "community": 1,
+      "community": 63,
       "norm_label": ".chartyped()"
     },
     {
@@ -8716,7 +8716,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_java_characterevent",
-      "community": 1,
+      "community": 63,
       "norm_label": "characterevent"
     },
     {
@@ -8726,7 +8726,7 @@
       "source_location": "L94",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter_handletoggleheaderbutton",
-      "community": 1,
+      "community": 63,
       "norm_label": ".handletoggleheaderbutton()"
     },
     {
@@ -8736,7 +8736,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_java_button",
-      "community": 1,
+      "community": 63,
       "norm_label": "button"
     },
     {
@@ -8746,7 +8746,7 @@
       "source_location": "L99",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_guibookwriter_guibookwriter_refreshtext",
-      "community": 1,
+      "community": 63,
       "norm_label": ".refreshtext()"
     },
     {
@@ -8776,7 +8776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "button",
-      "community": 16,
+      "community": 24,
       "norm_label": "button"
     },
     {
@@ -8896,7 +8896,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookarrow_guibuttonbookarrow_guibuttonbookarrow",
-      "community": 38,
+      "community": 9,
       "norm_label": ".guibuttonbookarrow()"
     },
     {
@@ -8906,7 +8906,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookarrowsmall",
-      "community": 24,
+      "community": 60,
       "norm_label": "guibuttonbookarrowsmall.java"
     },
     {
@@ -8916,7 +8916,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookarrowsmall_guibuttonbookarrowsmall",
-      "community": 24,
+      "community": 60,
       "norm_label": "guibuttonbookarrowsmall"
     },
     {
@@ -8926,7 +8926,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookarrowsmall_guibuttonbookarrowsmall_guibuttonbookarrowsmall",
-      "community": 24,
+      "community": 60,
       "norm_label": ".guibuttonbookarrowsmall()"
     },
     {
@@ -8936,7 +8936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookarrowsmall_java_onpress",
-      "community": 24,
+      "community": 60,
       "norm_label": "onpress"
     },
     {
@@ -8946,7 +8946,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookbookmark",
-      "community": 40,
+      "community": 26,
       "norm_label": "guibuttonbookbookmark.java"
     },
     {
@@ -8956,7 +8956,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookbookmark_guibuttonbookbookmark",
-      "community": 40,
+      "community": 26,
       "norm_label": "guibuttonbookbookmark"
     },
     {
@@ -8966,7 +8966,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookbookmark_guibuttonbookbookmark_guibuttonbookbookmark",
-      "community": 40,
+      "community": 26,
       "norm_label": ".guibuttonbookbookmark()"
     },
     {
@@ -8976,7 +8976,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookbookmark_guibuttonbookbookmark_extractcontents",
-      "community": 40,
+      "community": 26,
       "norm_label": ".extractcontents()"
     },
     {
@@ -8986,7 +8986,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookbookmark_java_guigraphicsextractor",
-      "community": 40,
+      "community": 26,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -8996,7 +8996,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookbookmark_java_override",
-      "community": 40,
+      "community": 26,
       "norm_label": "override"
     },
     {
@@ -9006,7 +9006,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookbookmark_guibuttonbookbookmark_gettooltip",
-      "community": 40,
+      "community": 26,
       "norm_label": ".gettooltip()"
     },
     {
@@ -9016,7 +9016,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookbookmark_java_component",
-      "community": 40,
+      "community": 26,
       "norm_label": "component"
     },
     {
@@ -9066,7 +9066,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookeye",
-      "community": 34,
+      "community": 24,
       "norm_label": "guibuttonbookeye.java"
     },
     {
@@ -9076,7 +9076,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookeye_guibuttonbookeye",
-      "community": 34,
+      "community": 24,
       "norm_label": "guibuttonbookeye"
     },
     {
@@ -9086,7 +9086,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookeye_guibuttonbookeye_guibuttonbookeye",
-      "community": 34,
+      "community": 24,
       "norm_label": ".guibuttonbookeye()"
     },
     {
@@ -9096,7 +9096,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookeye_java_onpress",
-      "community": 34,
+      "community": 24,
       "norm_label": "onpress"
     },
     {
@@ -9106,7 +9106,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookeye_guibuttonbookeye_extractcontents",
-      "community": 34,
+      "community": 0,
       "norm_label": ".extractcontents()"
     },
     {
@@ -9116,7 +9116,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookeye_java_guigraphicsextractor",
-      "community": 34,
+      "community": 0,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -9126,7 +9126,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookeye_java_override",
-      "community": 34,
+      "community": 0,
       "norm_label": "override"
     },
     {
@@ -9216,7 +9216,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookmarkread_guibuttonbookmarkread_markcategoryasread",
-      "community": 65,
+      "community": 22,
       "norm_label": ".markcategoryasread()"
     },
     {
@@ -9226,7 +9226,7 @@
       "source_location": "L55",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonbookmarkread_guibuttonbookmarkread_markentry",
-      "community": 65,
+      "community": 17,
       "norm_label": ".markentry()"
     },
     {
@@ -9336,7 +9336,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory",
-      "community": 59,
+      "community": 54,
       "norm_label": "guibuttoncategory.java"
     },
     {
@@ -9346,7 +9346,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_guibuttoncategory",
-      "community": 59,
+      "community": 54,
       "norm_label": "guibuttoncategory"
     },
     {
@@ -9356,7 +9356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_java_component",
-      "community": 59,
+      "community": 54,
       "norm_label": "component"
     },
     {
@@ -9386,7 +9386,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_guibuttoncategory_extractcontents",
-      "community": 34,
+      "community": 9,
       "norm_label": ".extractcontents()"
     },
     {
@@ -9396,7 +9396,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_java_guigraphicsextractor",
-      "community": 59,
+      "community": 54,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -9406,7 +9406,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_java_override",
-      "community": 59,
+      "community": 54,
       "norm_label": "override"
     },
     {
@@ -9416,7 +9416,7 @@
       "source_location": "L80",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_guibuttoncategory_playdownsound",
-      "community": 59,
+      "community": 54,
       "norm_label": ".playdownsound()"
     },
     {
@@ -9426,7 +9426,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_java_soundmanager",
-      "community": 59,
+      "community": 54,
       "norm_label": "soundmanager"
     },
     {
@@ -9436,7 +9436,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_guibuttoncategory_getcategory",
-      "community": 59,
+      "community": 54,
       "norm_label": ".getcategory()"
     },
     {
@@ -9446,7 +9446,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttoncategory_java_nullable",
-      "community": 59,
+      "community": 54,
       "norm_label": "nullable"
     },
     {
@@ -9496,7 +9496,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_gui_button_guibuttonentry_guibuttonentry_extractcontents",
-      "community": 34,
+      "community": 17,
       "norm_label": ".extractcontents()"
     },
     {
@@ -10176,7 +10176,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagelink_pagelink_ondisplayed",
-      "community": 23,
+      "community": 55,
       "norm_label": ".ondisplayed()"
     },
     {
@@ -10186,7 +10186,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest",
-      "community": 56,
+      "community": 26,
       "norm_label": "pagequest.java"
     },
     {
@@ -10196,7 +10196,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_pagequest",
-      "community": 56,
+      "community": 26,
       "norm_label": "pagequest"
     },
     {
@@ -10206,7 +10206,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_java_identifier",
-      "community": 56,
+      "community": 26,
       "norm_label": "identifier"
     },
     {
@@ -10216,7 +10216,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_pagequest_gettextheight",
-      "community": 56,
+      "community": 26,
       "norm_label": ".gettextheight()"
     },
     {
@@ -10226,7 +10226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_java_override",
-      "community": 56,
+      "community": 26,
       "norm_label": "override"
     },
     {
@@ -10236,7 +10236,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_pagequest_build",
-      "community": 56,
+      "community": 26,
       "norm_label": ".build()"
     },
     {
@@ -10246,7 +10246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_java_level",
-      "community": 56,
+      "community": 26,
       "norm_label": "level"
     },
     {
@@ -10256,7 +10256,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_pagequest_iscompleted",
-      "community": 56,
+      "community": 26,
       "norm_label": ".iscompleted()"
     },
     {
@@ -10266,7 +10266,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_pagequest_ondisplayed",
-      "community": 56,
+      "community": 26,
       "norm_label": ".ondisplayed()"
     },
     {
@@ -10276,7 +10276,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_pagequest_updatebuttontext",
-      "community": 56,
+      "community": 26,
       "norm_label": ".updatebuttontext()"
     },
     {
@@ -10286,7 +10286,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_java_button",
-      "community": 56,
+      "community": 26,
       "norm_label": "button"
     },
     {
@@ -10296,7 +10296,7 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_pagequest_questbuttonclicked",
-      "community": 56,
+      "community": 26,
       "norm_label": ".questbuttonclicked()"
     },
     {
@@ -10306,7 +10306,7 @@
       "source_location": "L77",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_pagequest_extractrenderstate",
-      "community": 56,
+      "community": 26,
       "norm_label": ".extractrenderstate()"
     },
     {
@@ -10316,7 +10316,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagequest_java_guigraphicsextractor",
-      "community": 56,
+      "community": 26,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -10886,7 +10886,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_pagetemplate_pagetemplate_build",
-      "community": 25,
+      "community": 13,
       "norm_label": ".build()"
     },
     {
@@ -11196,7 +11196,7 @@
       "source_location": "L88",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_abstr_pagedoublerecipe_pagedoublerecipe_getx",
-      "community": 34,
+      "community": 0,
       "norm_label": ".getx()"
     },
     {
@@ -11206,7 +11206,7 @@
       "source_location": "L92",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_page_abstr_pagedoublerecipe_pagedoublerecipe_gety",
-      "community": 34,
+      "community": 0,
       "norm_label": ".gety()"
     },
     {
@@ -11536,7 +11536,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate",
-      "community": 25,
+      "community": 13,
       "norm_label": "booktemplate.java"
     },
     {
@@ -11546,7 +11546,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate_booktemplate",
-      "community": 25,
+      "community": 13,
       "norm_label": "booktemplate"
     },
     {
@@ -11556,7 +11556,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate_java_identifier",
-      "community": 25,
+      "community": 13,
       "norm_label": "identifier"
     },
     {
@@ -11566,7 +11566,7 @@
       "source_location": "L61",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate_booktemplate_createtemplate",
-      "community": 25,
+      "community": 13,
       "norm_label": ".createtemplate()"
     },
     {
@@ -11576,7 +11576,7 @@
       "source_location": "L81",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate_booktemplate_compile",
-      "community": 25,
+      "community": 13,
       "norm_label": ".compile()"
     },
     {
@@ -11586,7 +11586,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate_java_level",
-      "community": 25,
+      "community": 13,
       "norm_label": "level"
     },
     {
@@ -11596,7 +11596,7 @@
       "source_location": "L122",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate_booktemplate_build",
-      "community": 25,
+      "community": 13,
       "norm_label": ".build()"
     },
     {
@@ -11656,7 +11656,7 @@
       "source_location": "L161",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate_booktemplate_registercomponent",
-      "community": 25,
+      "community": 13,
       "norm_label": ".registercomponent()"
     },
     {
@@ -11666,7 +11666,7 @@
       "source_location": "L165",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_booktemplate_booktemplate_createprocessor",
-      "community": 25,
+      "community": 13,
       "norm_label": ".createprocessor()"
     },
     {
@@ -11796,7 +11796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_templatecomponent_java_level",
-      "community": 50,
+      "community": 62,
       "norm_label": "level"
     },
     {
@@ -11876,7 +11876,7 @@
       "source_location": "L94",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_templatecomponent_templatecomponent_onvariablesavailable",
-      "community": 50,
+      "community": 61,
       "norm_label": ".onvariablesavailable()"
     },
     {
@@ -11886,7 +11886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_templatecomponent_java_provider",
-      "community": 50,
+      "community": 61,
       "norm_label": "provider"
     },
     {
@@ -11896,7 +11896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_templatecomponent_java_override",
-      "community": 50,
+      "community": 61,
       "norm_label": "override"
     },
     {
@@ -12016,7 +12016,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner",
-      "community": 19,
+      "community": 27,
       "norm_label": "variableassigner.java"
     },
     {
@@ -12036,7 +12036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_java_pattern",
-      "community": 19,
+      "community": 27,
       "norm_label": "pattern"
     },
     {
@@ -12056,7 +12056,7 @@
       "source_location": "L50",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_variableassigner_assignvariableholders",
-      "community": 62,
+      "community": 27,
       "norm_label": ".assignvariableholders()"
     },
     {
@@ -12066,7 +12066,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_java_level",
-      "community": 19,
+      "community": 27,
       "norm_label": "level"
     },
     {
@@ -12076,7 +12076,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_variableassigner_resolvestring",
-      "community": 19,
+      "community": 27,
       "norm_label": ".resolvestring()"
     },
     {
@@ -12086,7 +12086,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_variableassigner_resolvestringfunctions",
-      "community": 19,
+      "community": 27,
       "norm_label": ".resolvestringfunctions()"
     },
     {
@@ -12096,7 +12096,7 @@
       "source_location": "L113",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_variableassigner_resolvestringvar",
-      "community": 19,
+      "community": 27,
       "norm_label": ".resolvestringvar()"
     },
     {
@@ -12186,7 +12186,7 @@
       "source_location": "L184",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_context",
-      "community": 19,
+      "community": 27,
       "norm_label": "context"
     },
     {
@@ -12196,7 +12196,7 @@
       "source_location": "L191",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_context_context",
-      "community": 62,
+      "community": 27,
       "norm_label": ".context()"
     },
     {
@@ -12206,7 +12206,7 @@
       "source_location": "L197",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_context_getcached",
-      "community": 19,
+      "community": 27,
       "norm_label": ".getcached()"
     },
     {
@@ -12216,7 +12216,7 @@
       "source_location": "L201",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_variableassigner_context_cache",
-      "community": 19,
+      "community": 27,
       "norm_label": ".cache()"
     },
     {
@@ -12226,7 +12226,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom",
-      "community": 27,
+      "community": 11,
       "norm_label": "componentcustom.java"
     },
     {
@@ -12236,7 +12236,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_componentcustom",
-      "community": 27,
+      "community": 11,
       "norm_label": "componentcustom"
     },
     {
@@ -12246,7 +12246,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_componentcustom_onvariablesavailable",
-      "community": 27,
+      "community": 11,
       "norm_label": ".onvariablesavailable()"
     },
     {
@@ -12256,7 +12256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_java_provider",
-      "community": 27,
+      "community": 11,
       "norm_label": "provider"
     },
     {
@@ -12266,7 +12266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_java_override",
-      "community": 27,
+      "community": 11,
       "norm_label": "override"
     },
     {
@@ -12276,7 +12276,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_componentcustom_build",
-      "community": 27,
+      "community": 11,
       "norm_label": ".build()"
     },
     {
@@ -12286,7 +12286,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_componentcustom_extractrenderstate",
-      "community": 27,
+      "community": 11,
       "norm_label": ".extractrenderstate()"
     },
     {
@@ -12296,7 +12296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_java_guigraphicsextractor",
-      "community": 27,
+      "community": 11,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -12306,7 +12306,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_componentcustom_ondisplayed",
-      "community": 27,
+      "community": 11,
       "norm_label": ".ondisplayed()"
     },
     {
@@ -12316,7 +12316,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_componentcustom_mouseclicked",
-      "community": 27,
+      "community": 11,
       "norm_label": ".mouseclicked()"
     },
     {
@@ -12326,7 +12326,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentcustom_java_mousebuttonevent",
-      "community": 27,
+      "community": 11,
       "norm_label": "mousebuttonevent"
     },
     {
@@ -12456,7 +12456,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentframe",
-      "community": 23,
+      "community": 50,
       "norm_label": "componentframe.java"
     },
     {
@@ -12466,7 +12466,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentframe_componentframe",
-      "community": 23,
+      "community": 50,
       "norm_label": "componentframe"
     },
     {
@@ -12476,7 +12476,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentframe_componentframe_build",
-      "community": 23,
+      "community": 50,
       "norm_label": ".build()"
     },
     {
@@ -12486,7 +12486,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentframe_java_override",
-      "community": 23,
+      "community": 50,
       "norm_label": "override"
     },
     {
@@ -12496,7 +12496,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentframe_componentframe_extractrenderstate",
-      "community": 23,
+      "community": 50,
       "norm_label": ".extractrenderstate()"
     },
     {
@@ -12506,7 +12506,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentframe_java_guigraphicsextractor",
-      "community": 23,
+      "community": 50,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -12606,7 +12606,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentimage",
-      "community": 85,
+      "community": 50,
       "norm_label": "componentimage.java"
     },
     {
@@ -12616,7 +12616,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentimage_componentimage",
-      "community": 85,
+      "community": 50,
       "norm_label": "componentimage"
     },
     {
@@ -12626,7 +12626,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentimage_java_identifier",
-      "community": 85,
+      "community": 50,
       "norm_label": "identifier"
     },
     {
@@ -12636,7 +12636,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentimage_componentimage_build",
-      "community": 85,
+      "community": 50,
       "norm_label": ".build()"
     },
     {
@@ -12646,7 +12646,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentimage_java_override",
-      "community": 85,
+      "community": 50,
       "norm_label": "override"
     },
     {
@@ -12676,7 +12676,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentimage_componentimage_extractrenderstate",
-      "community": 85,
+      "community": 50,
       "norm_label": ".extractrenderstate()"
     },
     {
@@ -12686,7 +12686,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componentimage_java_guigraphicsextractor",
-      "community": 85,
+      "community": 50,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -12846,7 +12846,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext",
-      "community": 63,
+      "community": 44,
       "norm_label": "componenttext.java"
     },
     {
@@ -12856,7 +12856,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_componenttext",
-      "community": 63,
+      "community": 44,
       "norm_label": "componenttext"
     },
     {
@@ -12866,7 +12866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_java_component",
-      "community": 63,
+      "community": 44,
       "norm_label": "component"
     },
     {
@@ -12876,7 +12876,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_componenttext_build",
-      "community": 63,
+      "community": 44,
       "norm_label": ".build()"
     },
     {
@@ -12886,7 +12886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_java_override",
-      "community": 63,
+      "community": 44,
       "norm_label": "override"
     },
     {
@@ -12896,7 +12896,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_componenttext_onvariablesavailable",
-      "community": 63,
+      "community": 44,
       "norm_label": ".onvariablesavailable()"
     },
     {
@@ -12906,7 +12906,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_java_provider",
-      "community": 63,
+      "community": 44,
       "norm_label": "provider"
     },
     {
@@ -12916,7 +12916,7 @@
       "source_location": "L50",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_componenttext_ondisplayed",
-      "community": 63,
+      "community": 44,
       "norm_label": ".ondisplayed()"
     },
     {
@@ -12926,7 +12926,7 @@
       "source_location": "L55",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_componenttext_extractrenderstate",
-      "community": 63,
+      "community": 44,
       "norm_label": ".extractrenderstate()"
     },
     {
@@ -12936,7 +12936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_java_guigraphicsextractor",
-      "community": 63,
+      "community": 44,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -12946,7 +12946,7 @@
       "source_location": "L60",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_componenttext_mouseclicked",
-      "community": 63,
+      "community": 44,
       "norm_label": ".mouseclicked()"
     },
     {
@@ -12956,7 +12956,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_template_component_componenttext_java_mousebuttonevent",
-      "community": 63,
+      "community": 44,
       "norm_label": "mousebuttonevent"
     },
     {
@@ -13936,7 +13936,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser",
-      "community": 32,
+      "community": 1,
       "norm_label": "booktextparser.java"
     },
     {
@@ -13946,7 +13946,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser",
-      "community": 32,
+      "community": 1,
       "norm_label": "booktextparser"
     },
     {
@@ -13956,7 +13956,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_java_mutablecomponent",
-      "community": 32,
+      "community": 1,
       "norm_label": "mutablecomponent"
     },
     {
@@ -13966,7 +13966,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser_registerprocessor",
-      "community": 32,
+      "community": 1,
       "norm_label": ".registerprocessor()"
     },
     {
@@ -13986,7 +13986,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_java_style",
-      "community": 32,
+      "community": 1,
       "norm_label": "style"
     },
     {
@@ -13996,7 +13996,7 @@
       "source_location": "L218",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser_booktextparser",
-      "community": 32,
+      "community": 1,
       "norm_label": ".booktextparser()"
     },
     {
@@ -14006,7 +14006,7 @@
       "source_location": "L228",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser_parse",
-      "community": 32,
+      "community": 1,
       "norm_label": ".parse()"
     },
     {
@@ -14016,7 +14016,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_java_component",
-      "community": 32,
+      "community": 1,
       "norm_label": "component"
     },
     {
@@ -14026,7 +14026,7 @@
       "source_location": "L238",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser_expandmacros",
-      "community": 32,
+      "community": 1,
       "norm_label": ".expandmacros()"
     },
     {
@@ -14036,7 +14036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_java_pattern",
-      "community": 32,
+      "community": 1,
       "norm_label": "pattern"
     },
     {
@@ -14086,7 +14086,7 @@
       "source_location": "L345",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser_listprocessor",
-      "community": 32,
+      "community": 1,
       "norm_label": ".listprocessor()"
     },
     {
@@ -14096,7 +14096,7 @@
       "source_location": "L359",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser_lookupfunctionprocessor",
-      "community": 32,
+      "community": 1,
       "norm_label": ".lookupfunctionprocessor()"
     },
     {
@@ -14106,7 +14106,7 @@
       "source_location": "L371",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser_lookupcommandprocessor",
-      "community": 32,
+      "community": 1,
       "norm_label": ".lookupcommandprocessor()"
     },
     {
@@ -14116,7 +14116,7 @@
       "source_location": "L375",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_booktextparser_getkeybindkey",
-      "community": 32,
+      "community": 1,
       "norm_label": ".getkeybindkey()"
     },
     {
@@ -14126,7 +14126,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_java_keymapping",
-      "community": 32,
+      "community": 1,
       "norm_label": "keymapping"
     },
     {
@@ -14136,7 +14136,7 @@
       "source_location": "L389",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_commandlookup",
-      "community": 32,
+      "community": 1,
       "norm_label": "commandlookup"
     },
     {
@@ -14146,7 +14146,7 @@
       "source_location": "L390",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_commandlookup_process",
-      "community": 32,
+      "community": 1,
       "norm_label": ".process()"
     },
     {
@@ -14156,7 +14156,7 @@
       "source_location": "L393",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_commandprocessor",
-      "community": 32,
+      "community": 1,
       "norm_label": "commandprocessor"
     },
     {
@@ -14166,7 +14166,7 @@
       "source_location": "L394",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_commandprocessor_process",
-      "community": 32,
+      "community": 1,
       "norm_label": ".process()"
     },
     {
@@ -14176,7 +14176,7 @@
       "source_location": "L397",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_functionprocessor",
-      "community": 32,
+      "community": 1,
       "norm_label": "functionprocessor"
     },
     {
@@ -14186,7 +14186,7 @@
       "source_location": "L398",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_booktextparser_functionprocessor_process",
-      "community": 32,
+      "community": 1,
       "norm_label": ".process()"
     },
     {
@@ -14196,7 +14196,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_span",
-      "community": 32,
+      "community": 45,
       "norm_label": "span.java"
     },
     {
@@ -14206,7 +14206,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_span_span",
-      "community": 32,
+      "community": 45,
       "norm_label": "span"
     },
     {
@@ -14216,7 +14216,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_span_span_error",
-      "community": 32,
+      "community": 45,
       "norm_label": ".error()"
     },
     {
@@ -14226,7 +14226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_span_java_style",
-      "community": 32,
+      "community": 45,
       "norm_label": "style"
     },
     {
@@ -14236,7 +14236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_span_java_component",
-      "community": 32,
+      "community": 45,
       "norm_label": "component"
     },
     {
@@ -14246,7 +14246,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_span_span_span",
-      "community": 32,
+      "community": 45,
       "norm_label": ".span()"
     },
     {
@@ -14256,7 +14256,7 @@
       "source_location": "L63",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_span_span_styledsubstring",
-      "community": 32,
+      "community": 45,
       "norm_label": ".styledsubstring()"
     },
     {
@@ -14266,7 +14266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_span_java_mutablecomponent",
-      "community": 32,
+      "community": 45,
       "norm_label": "mutablecomponent"
     },
     {
@@ -14486,7 +14486,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter",
-      "community": 32,
+      "community": 3,
       "norm_label": "textlayouter.java"
     },
     {
@@ -14496,7 +14496,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter",
-      "community": 32,
+      "community": 3,
       "norm_label": "textlayouter"
     },
     {
@@ -14516,7 +14516,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_java_font",
-      "community": 32,
+      "community": 3,
       "norm_label": "font"
     },
     {
@@ -14526,7 +14526,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_layout",
-      "community": 32,
+      "community": 3,
       "norm_label": ".layout()"
     },
     {
@@ -14536,7 +14536,7 @@
       "source_location": "L82",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_adjustscale",
-      "community": 32,
+      "community": 3,
       "norm_label": ".adjustscale()"
     },
     {
@@ -14546,7 +14546,7 @@
       "source_location": "L93",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_getscale",
-      "community": 32,
+      "community": 3,
       "norm_label": ".getscale()"
     },
     {
@@ -14556,7 +14556,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_getoverflow",
-      "community": 32,
+      "community": 3,
       "norm_label": ".getoverflow()"
     },
     {
@@ -14566,7 +14566,7 @@
       "source_location": "L103",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_layoutparagraph",
-      "community": 32,
+      "community": 3,
       "norm_label": ".layoutparagraph()"
     },
     {
@@ -14576,7 +14576,7 @@
       "source_location": "L117",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_layoutspan",
-      "community": 32,
+      "community": 3,
       "norm_label": ".layoutspan()"
     },
     {
@@ -14586,7 +14586,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "breakiterator",
-      "community": 32,
+      "community": 3,
       "norm_label": "breakiterator"
     },
     {
@@ -14596,7 +14596,7 @@
       "source_location": "L137",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_breakline",
-      "community": 32,
+      "community": 3,
       "norm_label": ".breakline()"
     },
     {
@@ -14606,7 +14606,7 @@
       "source_location": "L180",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_tostring",
-      "community": 32,
+      "community": 3,
       "norm_label": ".tostring()"
     },
     {
@@ -14616,7 +14616,7 @@
       "source_location": "L188",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_flush",
-      "community": 32,
+      "community": 3,
       "norm_label": ".flush()"
     },
     {
@@ -14626,7 +14626,7 @@
       "source_location": "L225",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_textlayouter_getwords",
-      "community": 32,
+      "community": 3,
       "norm_label": ".getwords()"
     },
     {
@@ -14636,7 +14636,7 @@
       "source_location": "L229",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_spantail",
-      "community": 32,
+      "community": 45,
       "norm_label": "spantail"
     },
     {
@@ -14646,7 +14646,7 @@
       "source_location": "L237",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_spantail_spantail",
-      "community": 32,
+      "community": 45,
       "norm_label": ".spantail()"
     },
     {
@@ -14656,7 +14656,7 @@
       "source_location": "L245",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_spantail_position",
-      "community": 32,
+      "community": 45,
       "norm_label": ".position()"
     },
     {
@@ -14666,7 +14666,7 @@
       "source_location": "L254",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_textlayouter_spantail_tail",
-      "community": 32,
+      "community": 45,
       "norm_label": ".tail()"
     },
     {
@@ -14676,7 +14676,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word",
-      "community": 32,
+      "community": 31,
       "norm_label": "word.java"
     },
     {
@@ -14686,7 +14686,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_word",
-      "community": 32,
+      "community": 31,
       "norm_label": "word"
     },
     {
@@ -14696,7 +14696,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_java_component",
-      "community": 32,
+      "community": 31,
       "norm_label": "component"
     },
     {
@@ -14706,7 +14706,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_word_word",
-      "community": 32,
+      "community": 31,
       "norm_label": ".word()"
     },
     {
@@ -14716,7 +14716,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_java_mutablecomponent",
-      "community": 32,
+      "community": 31,
       "norm_label": "mutablecomponent"
     },
     {
@@ -14726,7 +14726,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_word_extractrenderstate",
-      "community": 32,
+      "community": 31,
       "norm_label": ".extractrenderstate()"
     },
     {
@@ -14736,7 +14736,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_java_guigraphicsextractor",
-      "community": 32,
+      "community": 31,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -14746,7 +14746,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_java_font",
-      "community": 32,
+      "community": 31,
       "norm_label": "font"
     },
     {
@@ -14756,7 +14756,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_java_style",
-      "community": 32,
+      "community": 31,
       "norm_label": "style"
     },
     {
@@ -14766,7 +14766,7 @@
       "source_location": "L59",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_word_click",
-      "community": 32,
+      "community": 31,
       "norm_label": ".click()"
     },
     {
@@ -14776,7 +14776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_java_mousebuttonevent",
-      "community": 32,
+      "community": 31,
       "norm_label": "mousebuttonevent"
     },
     {
@@ -14786,7 +14786,7 @@
       "source_location": "L67",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_word_ishovered",
-      "community": 32,
+      "community": 31,
       "norm_label": ".ishovered()"
     },
     {
@@ -14796,7 +14796,7 @@
       "source_location": "L71",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_book_text_word_word_isclusterhovered",
-      "community": 32,
+      "community": 31,
       "norm_label": ".isclusterhovered()"
     },
     {
@@ -14836,7 +14836,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_gui_guibuttoninventorybook_guibuttoninventorybook_extractcontents",
-      "community": 34,
+      "community": 16,
       "norm_label": ".extractcontents()"
     },
     {
@@ -14846,7 +14846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_gui_guibuttoninventorybook_java_guigraphicsextractor",
-      "community": 34,
+      "community": 16,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -14856,7 +14856,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_gui_guibuttoninventorybook_java_override",
-      "community": 34,
+      "community": 16,
       "norm_label": "override"
     },
     {
@@ -14946,7 +14946,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler",
-      "community": 60,
+      "community": 8,
       "norm_label": "bookrightclickhandler.java"
     },
     {
@@ -14956,7 +14956,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_bookrightclickhandler",
-      "community": 60,
+      "community": 8,
       "norm_label": "bookrightclickhandler"
     },
     {
@@ -14966,7 +14966,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_bookrightclickhandler_onrightclick",
-      "community": 60,
+      "community": 8,
       "norm_label": ".onrightclick()"
     },
     {
@@ -14976,7 +14976,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_java_player",
-      "community": 60,
+      "community": 8,
       "norm_label": "player"
     },
     {
@@ -14986,7 +14986,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_java_level",
-      "community": 60,
+      "community": 8,
       "norm_label": "level"
     },
     {
@@ -14996,7 +14996,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_java_interactionhand",
-      "community": 60,
+      "community": 8,
       "norm_label": "interactionhand"
     },
     {
@@ -15006,7 +15006,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_java_blockhitresult",
-      "community": 60,
+      "community": 8,
       "norm_label": "blockhitresult"
     },
     {
@@ -15016,7 +15016,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_java_interactionresult",
-      "community": 60,
+      "community": 8,
       "norm_label": "interactionresult"
     },
     {
@@ -15026,7 +15026,7 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_bookrightclickhandler_gethoveredentry",
-      "community": 60,
+      "community": 8,
       "norm_label": ".gethoveredentry()"
     },
     {
@@ -15036,7 +15036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_java_pair",
-      "community": 60,
+      "community": 8,
       "norm_label": "pair"
     },
     {
@@ -15046,7 +15046,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_client_handler_bookrightclickhandler_java_nullable",
-      "community": 60,
+      "community": 8,
       "norm_label": "nullable"
     },
     {
@@ -15216,7 +15216,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger",
-      "community": 31,
+      "community": 2,
       "norm_label": "bookopentrigger.java"
     },
     {
@@ -15226,7 +15226,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_bookopentrigger",
-      "community": 31,
+      "community": 2,
       "norm_label": "bookopentrigger"
     },
     {
@@ -15236,7 +15236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "simplecriteriontrigger",
-      "community": 31,
+      "community": 2,
       "norm_label": "simplecriteriontrigger"
     },
     {
@@ -15246,7 +15246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_java_identifier",
-      "community": 31,
+      "community": 2,
       "norm_label": "identifier"
     },
     {
@@ -15256,7 +15256,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_bookopentrigger_codec",
-      "community": 31,
+      "community": 2,
       "norm_label": ".codec()"
     },
     {
@@ -15266,7 +15266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "codec",
-      "community": 31,
+      "community": 2,
       "norm_label": "codec"
     },
     {
@@ -15276,7 +15276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_java_notnull",
-      "community": 31,
+      "community": 2,
       "norm_label": "notnull"
     },
     {
@@ -15286,7 +15286,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_java_override",
-      "community": 31,
+      "community": 2,
       "norm_label": "override"
     },
     {
@@ -15296,7 +15296,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_bookopentrigger_trigger",
-      "community": 31,
+      "community": 2,
       "norm_label": ".trigger()"
     },
     {
@@ -15306,7 +15306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_java_serverplayer",
-      "community": 31,
+      "community": 2,
       "norm_label": "serverplayer"
     },
     {
@@ -15316,7 +15316,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_triggerinstance",
-      "community": 31,
+      "community": 2,
       "norm_label": "triggerinstance"
     },
     {
@@ -15326,7 +15326,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "simpleinstance",
-      "community": 31,
+      "community": 2,
       "norm_label": "simpleinstance"
     },
     {
@@ -15336,7 +15336,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "contextawarepredicate",
-      "community": 31,
+      "community": 2,
       "norm_label": "contextawarepredicate"
     },
     {
@@ -15346,7 +15346,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "ints",
-      "community": 31,
+      "community": 2,
       "norm_label": "ints"
     },
     {
@@ -15356,7 +15356,7 @@
       "source_location": "L50",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_advancement_bookopentrigger_triggerinstance_matches",
-      "community": 31,
+      "community": 2,
       "norm_label": ".matches()"
     },
     {
@@ -15926,7 +15926,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumliconfig_vellumliconfig",
-      "community": 51,
+      "community": 7,
       "norm_label": "vellumliconfig"
     },
     {
@@ -15936,7 +15936,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumliconfig_vellumliconfig_get",
-      "community": 51,
+      "community": 7,
       "norm_label": ".get()"
     },
     {
@@ -15946,7 +15946,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumliconfig_vellumliconfig_set",
-      "community": 51,
+      "community": 7,
       "norm_label": ".set()"
     },
     {
@@ -15956,7 +15956,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumliconfig_vellumliconfig_reloadbuiltinflags",
-      "community": 51,
+      "community": 7,
       "norm_label": ".reloadbuiltinflags()"
     },
     {
@@ -15966,7 +15966,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumliconfig_vellumliconfig_getconfigflag",
-      "community": 51,
+      "community": 7,
       "norm_label": ".getconfigflag()"
     },
     {
@@ -15976,7 +15976,7 @@
       "source_location": "L67",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumliconfig_vellumliconfig_getconfigflagand",
-      "community": 51,
+      "community": 7,
       "norm_label": ".getconfigflagand()"
     },
     {
@@ -15986,7 +15986,7 @@
       "source_location": "L77",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumliconfig_vellumliconfig_getconfigflagor",
-      "community": 51,
+      "community": 7,
       "norm_label": ".getconfigflagor()"
     },
     {
@@ -15996,7 +15996,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumliconfig_vellumliconfig_setflag",
-      "community": 51,
+      "community": 7,
       "norm_label": ".setflag()"
     },
     {
@@ -16006,7 +16006,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumlisounds",
-      "community": 78,
+      "community": 28,
       "norm_label": "vellumlisounds.java"
     },
     {
@@ -16016,7 +16016,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumlisounds_vellumlisounds",
-      "community": 78,
+      "community": 28,
       "norm_label": "vellumlisounds"
     },
     {
@@ -16026,7 +16026,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumlisounds_java_resourcekey",
-      "community": 78,
+      "community": 28,
       "norm_label": "resourcekey"
     },
     {
@@ -16036,7 +16036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "soundevent",
-      "community": 78,
+      "community": 28,
       "norm_label": "soundevent"
     },
     {
@@ -16046,7 +16046,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumlisounds_vellumlisounds_submitregistrations",
-      "community": 78,
+      "community": 28,
       "norm_label": ".submitregistrations()"
     },
     {
@@ -16056,7 +16056,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumlisounds_java_identifier",
-      "community": 78,
+      "community": 28,
       "norm_label": "identifier"
     },
     {
@@ -16066,7 +16066,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_base_vellumlisounds_vellumlisounds_getsound",
-      "community": 78,
+      "community": 28,
       "norm_label": ".getsound()"
     },
     {
@@ -16146,7 +16146,7 @@
       "source_location": "L197",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_book_book_getbookitem",
-      "community": 59,
+      "community": 16,
       "norm_label": ".getbookitem()"
     },
     {
@@ -16156,7 +16156,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_book_java_itemstack",
-      "community": 59,
+      "community": 16,
       "norm_label": "itemstack"
     },
     {
@@ -16166,7 +16166,7 @@
       "source_location": "L202",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_book_book_markupdated",
-      "community": 41,
+      "community": 22,
       "norm_label": ".markupdated()"
     },
     {
@@ -16186,7 +16186,7 @@
       "source_location": "L217",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_book_book_reloadcontents",
-      "community": 16,
+      "community": 49,
       "norm_label": ".reloadcontents()"
     },
     {
@@ -16196,7 +16196,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_book_java_level",
-      "community": 16,
+      "community": 49,
       "norm_label": "level"
     },
     {
@@ -16206,7 +16206,7 @@
       "source_location": "L226",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_book_book_advancementsenabled",
-      "community": 22,
+      "community": 16,
       "norm_label": ".advancementsenabled()"
     },
     {
@@ -16276,7 +16276,7 @@
       "source_location": "L270",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_book_book_geticon",
-      "community": 59,
+      "community": 16,
       "norm_label": ".geticon()"
     },
     {
@@ -16346,7 +16346,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry",
-      "community": 61,
+      "community": 72,
       "norm_label": "bookregistry.java"
     },
     {
@@ -16356,7 +16356,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry_bookregistry",
-      "community": 61,
+      "community": 72,
       "norm_label": "bookregistry"
     },
     {
@@ -16366,7 +16366,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry_java_identifier",
-      "community": 61,
+      "community": 72,
       "norm_label": "identifier"
     },
     {
@@ -16376,7 +16376,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry_java_gson",
-      "community": 61,
+      "community": 72,
       "norm_label": "gson"
     },
     {
@@ -16386,7 +16386,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry_bookregistry_bookregistry",
-      "community": 61,
+      "community": 72,
       "norm_label": ".bookregistry()"
     },
     {
@@ -16396,7 +16396,7 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry_bookregistry_init",
-      "community": 61,
+      "community": 72,
       "norm_label": ".init()"
     },
     {
@@ -16406,7 +16406,7 @@
       "source_location": "L73",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry_bookregistry_loadbook",
-      "community": 61,
+      "community": 72,
       "norm_label": ".loadbook()"
     },
     {
@@ -16416,7 +16416,7 @@
       "source_location": "L82",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry_bookregistry_reloadcontents",
-      "community": 61,
+      "community": 7,
       "norm_label": ".reloadcontents()"
     },
     {
@@ -16426,7 +16426,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_book_bookregistry_java_level",
-      "community": 61,
+      "community": 7,
       "norm_label": "level"
     },
     {
@@ -16436,7 +16436,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_command_openbookcommand",
-      "community": 64,
+      "community": 2,
       "norm_label": "openbookcommand.java"
     },
     {
@@ -16446,7 +16446,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_command_openbookcommand_openbookcommand",
-      "community": 64,
+      "community": 2,
       "norm_label": "openbookcommand"
     },
     {
@@ -16456,7 +16456,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "suggestionprovider",
-      "community": 64,
+      "community": 2,
       "norm_label": "suggestionprovider"
     },
     {
@@ -16466,7 +16466,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "commandsourcestack",
-      "community": 64,
+      "community": 2,
       "norm_label": "commandsourcestack"
     },
     {
@@ -16476,7 +16476,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_command_openbookcommand_openbookcommand_register",
-      "community": 64,
+      "community": 2,
       "norm_label": ".register()"
     },
     {
@@ -16486,7 +16486,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "commanddispatcher",
-      "community": 64,
+      "community": 2,
       "norm_label": "commanddispatcher"
     },
     {
@@ -16496,7 +16496,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_command_openbookcommand_openbookcommand_doit",
-      "community": 64,
+      "community": 2,
       "norm_label": ".doit()"
     },
     {
@@ -16506,7 +16506,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_command_openbookcommand_java_serverplayer",
-      "community": 64,
+      "community": 2,
       "norm_label": "serverplayer"
     },
     {
@@ -16516,7 +16516,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_command_openbookcommand_java_identifier",
-      "community": 64,
+      "community": 2,
       "norm_label": "identifier"
     },
     {
@@ -16526,7 +16526,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler",
-      "community": 68,
+      "community": 2,
       "norm_label": "lecterneventhandler.java"
     },
     {
@@ -16536,7 +16536,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler_lecterneventhandler",
-      "community": 68,
+      "community": 2,
       "norm_label": "lecterneventhandler"
     },
     {
@@ -16546,7 +16546,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler_lecterneventhandler_rightclick",
-      "community": 68,
+      "community": 2,
       "norm_label": ".rightclick()"
     },
     {
@@ -16556,7 +16556,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler_java_player",
-      "community": 68,
+      "community": 2,
       "norm_label": "player"
     },
     {
@@ -16566,7 +16566,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler_java_level",
-      "community": 68,
+      "community": 2,
       "norm_label": "level"
     },
     {
@@ -16576,7 +16576,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler_java_interactionhand",
-      "community": 68,
+      "community": 2,
       "norm_label": "interactionhand"
     },
     {
@@ -16586,7 +16586,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler_java_blockhitresult",
-      "community": 68,
+      "community": 2,
       "norm_label": "blockhitresult"
     },
     {
@@ -16596,7 +16596,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler_java_interactionresult",
-      "community": 68,
+      "community": 2,
       "norm_label": "interactionresult"
     },
     {
@@ -16606,7 +16606,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_handler_lecterneventhandler_lecterneventhandler_takebook",
-      "community": 68,
+      "community": 2,
       "norm_label": ".takebook()"
     },
     {
@@ -16616,7 +16616,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "lecternblockentity",
-      "community": 68,
+      "community": 2,
       "norm_label": "lecternblockentity"
     },
     {
@@ -16686,7 +16686,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "item",
-      "community": 3,
+      "community": 28,
       "norm_label": "item"
     },
     {
@@ -16916,7 +16916,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_item_vellumlidatacomponents",
-      "community": 80,
+      "community": 2,
       "norm_label": "vellumlidatacomponents.java"
     },
     {
@@ -16926,7 +16926,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_item_vellumlidatacomponents_vellumlidatacomponents",
-      "community": 80,
+      "community": 2,
       "norm_label": "vellumlidatacomponents"
     },
     {
@@ -16936,7 +16936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_item_vellumlidatacomponents_java_identifier",
-      "community": 80,
+      "community": 2,
       "norm_label": "identifier"
     },
     {
@@ -16946,7 +16946,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "datacomponenttype",
-      "community": 80,
+      "community": 2,
       "norm_label": "datacomponenttype"
     },
     {
@@ -16956,7 +16956,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_common_item_vellumlidatacomponents_vellumlidatacomponents_submitdatacomponentregistrations",
-      "community": 80,
+      "community": 2,
       "norm_label": ".submitdatacomponentregistrations()"
     },
     {
@@ -17826,7 +17826,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_mixin_client_mixininventoryscreen",
-      "community": 51,
+      "community": 7,
       "norm_label": "mixininventoryscreen.java"
     },
     {
@@ -17836,7 +17836,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_mixin_client_mixininventoryscreen_mixininventoryscreen",
-      "community": 51,
+      "community": 7,
       "norm_label": "mixininventoryscreen"
     },
     {
@@ -17846,7 +17846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "abstractrecipebookscreen",
-      "community": 51,
+      "community": 7,
       "norm_label": "abstractrecipebookscreen"
     },
     {
@@ -17856,7 +17856,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "inventorymenu",
-      "community": 51,
+      "community": 7,
       "norm_label": "inventorymenu"
     },
     {
@@ -17866,7 +17866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_mixin_client_mixininventoryscreen_java_mixin",
-      "community": 51,
+      "community": 7,
       "norm_label": "mixin"
     },
     {
@@ -17876,7 +17876,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_mixin_client_mixininventoryscreen_mixininventoryscreen_mixininventoryscreen",
-      "community": 51,
+      "community": 7,
       "norm_label": ".mixininventoryscreen()"
     },
     {
@@ -17886,7 +17886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "recipebookcomponent",
-      "community": 51,
+      "community": 7,
       "norm_label": "recipebookcomponent"
     },
     {
@@ -17896,7 +17896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "inventory",
-      "community": 51,
+      "community": 7,
       "norm_label": "inventory"
     },
     {
@@ -17906,7 +17906,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_mixin_client_mixininventoryscreen_java_component",
-      "community": 51,
+      "community": 7,
       "norm_label": "component"
     },
     {
@@ -17916,7 +17916,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_mixin_client_mixininventoryscreen_mixininventoryscreen_onguiinitpost",
-      "community": 51,
+      "community": 7,
       "norm_label": ".onguiinitpost()"
     },
     {
@@ -17926,7 +17926,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_mixin_client_mixininventoryscreen_java_callbackinfo",
-      "community": 51,
+      "community": 7,
       "norm_label": "callbackinfo"
     },
     {
@@ -17936,7 +17936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_mixin_client_mixininventoryscreen_java_inject",
-      "community": 51,
+      "community": 7,
       "norm_label": "inject"
     },
     {
@@ -18006,7 +18006,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_client_neoforgeclientxplatimpl",
-      "community": 45,
+      "community": 8,
       "norm_label": "neoforgeclientxplatimpl.java"
     },
     {
@@ -18016,7 +18016,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_client_neoforgeclientxplatimpl_neoforgeclientxplatimpl",
-      "community": 45,
+      "community": 8,
       "norm_label": "neoforgeclientxplatimpl"
     },
     {
@@ -18026,7 +18026,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_client_neoforgeclientxplatimpl_neoforgeclientxplatimpl_submitguielement",
-      "community": 45,
+      "community": 8,
       "norm_label": ".submitguielement()"
     },
     {
@@ -18036,7 +18036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_client_neoforgeclientxplatimpl_java_guigraphicsextractor",
-      "community": 45,
+      "community": 8,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -18046,7 +18046,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_client_neoforgeclientxplatimpl_java_guielementrenderstate",
-      "community": 45,
+      "community": 8,
       "norm_label": "guielementrenderstate"
     },
     {
@@ -18056,7 +18056,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_client_neoforgeclientxplatimpl_java_override",
-      "community": 45,
+      "community": 8,
       "norm_label": "override"
     },
     {
@@ -18066,7 +18066,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_neoforgenetworkhandler",
-      "community": 15,
+      "community": 48,
       "norm_label": "neoforgenetworkhandler.java"
     },
     {
@@ -18076,7 +18076,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_neoforgenetworkhandler_neoforgenetworkhandler",
-      "community": 15,
+      "community": 48,
       "norm_label": "neoforgenetworkhandler"
     },
     {
@@ -18086,7 +18086,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_neoforgenetworkhandler_neoforgenetworkhandler_setuppackets",
-      "community": 15,
+      "community": 48,
       "norm_label": ".setuppackets()"
     },
     {
@@ -18096,7 +18096,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "registerpayloadhandlersevent",
-      "community": 15,
+      "community": 48,
       "norm_label": "registerpayloadhandlersevent"
     },
     {
@@ -18106,7 +18106,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_neoforgenetworkhandler_neoforgenetworkhandler_sendopenbook",
-      "community": 15,
+      "community": 48,
       "norm_label": ".sendopenbook()"
     },
     {
@@ -18116,7 +18116,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_neoforgenetworkhandler_java_serverplayer",
-      "community": 15,
+      "community": 48,
       "norm_label": "serverplayer"
     },
     {
@@ -18126,7 +18126,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_neoforgenetworkhandler_java_identifier",
-      "community": 15,
+      "community": 48,
       "norm_label": "identifier"
     },
     {
@@ -18136,7 +18136,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_neoforgenetworkhandler_neoforgenetworkhandler_sendreloadbookcontents",
-      "community": 15,
+      "community": 48,
       "norm_label": ".sendreloadbookcontents()"
     },
     {
@@ -18146,7 +18146,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_neoforgenetworkhandler_java_minecraftserver",
-      "community": 15,
+      "community": 48,
       "norm_label": "minecraftserver"
     },
     {
@@ -18176,7 +18176,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_neoforge_network_handler_neoforgeclientpayloadhandler_neoforgeclientpayloadhandler_getinstance",
-      "community": 15,
+      "community": 48,
       "norm_label": ".getinstance()"
     },
     {
@@ -18726,7 +18726,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_xplat_iclientxplatabstractions",
-      "community": 45,
+      "community": 8,
       "norm_label": "iclientxplatabstractions.java"
     },
     {
@@ -18736,7 +18736,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_xplat_iclientxplatabstractions_iclientxplatabstractions",
-      "community": 45,
+      "community": 8,
       "norm_label": "iclientxplatabstractions"
     },
     {
@@ -18746,7 +18746,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_xplat_iclientxplatabstractions_iclientxplatabstractions_find",
-      "community": 45,
+      "community": 8,
       "norm_label": ".find()"
     },
     {
@@ -18756,7 +18756,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_xplat_iclientxplatabstractions_iclientxplatabstractions_submitguielement",
-      "community": 45,
+      "community": 8,
       "norm_label": ".submitguielement()"
     },
     {
@@ -18766,7 +18766,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_xplat_iclientxplatabstractions_java_guigraphicsextractor",
-      "community": 45,
+      "community": 8,
       "norm_label": "guigraphicsextractor"
     },
     {
@@ -18776,7 +18776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_vellumli_xplat_iclientxplatabstractions_java_guielementrenderstate",
-      "community": 45,
+      "community": 8,
       "norm_label": "guielementrenderstate"
     },
     {
@@ -19190,10 +19190,70 @@
       "norm_label": "changelog \u2014 vellumli"
     },
     {
+      "label": "[1.1.0] - 2026-08-19",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "changelog_1_1_0_2026_08_19",
+      "community": 86,
+      "norm_label": "[1.1.0] - 2026-08-19"
+    },
+    {
+      "label": "Change",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "changelog_change",
+      "community": 86,
+      "norm_label": "change"
+    },
+    {
+      "label": "[1.0.2] - 2026-08-18",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "changelog_1_0_2_2026_08_18",
+      "community": 86,
+      "norm_label": "[1.0.2] - 2026-08-18"
+    },
+    {
+      "label": "Change",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "changelog_change_14",
+      "community": 86,
+      "norm_label": "change"
+    },
+    {
+      "label": "[1.0.1] - 2026-08-12",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "changelog_1_0_1_2026_08_12",
+      "community": 86,
+      "norm_label": "[1.0.1] - 2026-08-12"
+    },
+    {
+      "label": "Change",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "changelog_change_23",
+      "community": 86,
+      "norm_label": "change"
+    },
+    {
       "label": "[1.0.0] - 2026-08-10",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L3",
+      "source_location": "L27",
       "_origin": "ast",
       "id": "changelog_1_0_0_2026_08_10",
       "community": 86,
@@ -19203,7 +19263,7 @@
       "label": "Release",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L5",
+      "source_location": "L29",
       "_origin": "ast",
       "id": "changelog_release",
       "community": 86,
@@ -19213,7 +19273,7 @@
       "label": "[0.0.0-beta.3] - 2026-08-05",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L9",
+      "source_location": "L33",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_3_2026_08_05",
       "community": 86,
@@ -19223,9 +19283,9 @@
       "label": "Change",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L11",
+      "source_location": "L35",
       "_origin": "ast",
-      "id": "changelog_change",
+      "id": "changelog_change_35",
       "community": 86,
       "norm_label": "change"
     },
@@ -19233,7 +19293,7 @@
       "label": "0.0.0-beta.2",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L15",
+      "source_location": "L39",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_2",
       "community": 86,
@@ -19243,7 +19303,7 @@
       "label": "0.0.0-beta.1",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L22",
+      "source_location": "L46",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_1",
       "community": 86,
@@ -19343,7 +19403,7 @@
       "label": "Notas espec\u00edficas de este mod",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L18",
+      "source_location": "L21",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_notas_espec\u00edficas_de_este_mod",
       "community": 66,
@@ -19353,7 +19413,7 @@
       "label": "Convenciones de nomenclatura",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L28",
+      "source_location": "L31",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_convenciones_de_nomenclatura",
       "community": 66,
@@ -19363,7 +19423,7 @@
       "label": "Organizaci\u00f3n y ramas",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L37",
+      "source_location": "L40",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_organizaci\u00f3n_y_ramas",
       "community": 66,
@@ -19373,7 +19433,7 @@
       "label": "Estructura del proyecto",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L43",
+      "source_location": "L46",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_estructura_del_proyecto",
       "community": 66,
@@ -19383,7 +19443,7 @@
       "label": "Versionado",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L47",
+      "source_location": "L50",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_versionado",
       "community": 66,
@@ -19393,7 +19453,7 @@
       "label": "Commits (Conventional Commits)",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L52",
+      "source_location": "L55",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_commits_conventional_commits",
       "community": 66,
@@ -19403,7 +19463,7 @@
       "label": "Tags",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L56",
+      "source_location": "L59",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_tags",
       "community": 66,
@@ -19413,7 +19473,7 @@
       "label": "Flujo por tarea",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L60",
+      "source_location": "L63",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_flujo_por_tarea",
       "community": 66,
@@ -19423,7 +19483,7 @@
       "label": "Buenas pr\u00e1cticas",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L95",
+      "source_location": "L98",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_buenas_pr\u00e1cticas",
       "community": 66,
@@ -19433,7 +19493,7 @@
       "label": "Idioma",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L103",
+      "source_location": "L106",
       "_origin": "ast",
       "id": "docs_workflow_vellumli_26_2_idioma",
       "community": 66,
@@ -19588,6 +19648,36 @@
       "id": "docs_curseforge_versions_1_0_0",
       "community": 81,
       "norm_label": "1.0.0.md"
+    },
+    {
+      "label": "1.0.1.md",
+      "file_type": "document",
+      "source_file": "docs/curseforge/versions/1.0.1.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_curseforge_versions_1_0_1",
+      "community": 64,
+      "norm_label": "1.0.1.md"
+    },
+    {
+      "label": "1.0.2.md",
+      "file_type": "document",
+      "source_file": "docs/curseforge/versions/1.0.2.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_curseforge_versions_1_0_2",
+      "community": 68,
+      "norm_label": "1.0.2.md"
+    },
+    {
+      "label": "1.1.0.md",
+      "file_type": "document",
+      "source_file": "docs/curseforge/versions/1.1.0.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_curseforge_versions_1_1_0",
+      "community": 75,
+      "norm_label": "1.1.0.md"
     },
     {
       "type": "doc",
@@ -69649,7 +69739,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L22",
+      "source_location": "L46",
       "weight": 1.0,
       "source": "changelog_changelog_vellumli",
       "target": "changelog_0_0_0_beta_1",
@@ -69659,7 +69749,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L15",
+      "source_location": "L39",
       "weight": 1.0,
       "source": "changelog_changelog_vellumli",
       "target": "changelog_0_0_0_beta_2",
@@ -69669,7 +69759,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L9",
+      "source_location": "L33",
       "weight": 1.0,
       "source": "changelog_changelog_vellumli",
       "target": "changelog_0_0_0_beta_3_2026_08_05",
@@ -69679,7 +69769,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L3",
+      "source_location": "L27",
       "weight": 1.0,
       "source": "changelog_changelog_vellumli",
       "target": "changelog_1_0_0_2026_08_10",
@@ -69689,7 +69779,67 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L5",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "changelog_changelog_vellumli",
+      "target": "changelog_1_0_1_2026_08_12",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "changelog_changelog_vellumli",
+      "target": "changelog_1_0_2_2026_08_18",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "changelog_changelog_vellumli",
+      "target": "changelog_1_1_0_2026_08_19",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "changelog_1_1_0_2026_08_19",
+      "target": "changelog_change",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "changelog_1_0_2_2026_08_18",
+      "target": "changelog_change_14",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "changelog_1_0_1_2026_08_12",
+      "target": "changelog_change_23",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L29",
       "weight": 1.0,
       "source": "changelog_1_0_0_2026_08_10",
       "target": "changelog_release",
@@ -69699,10 +69849,10 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L11",
+      "source_location": "L35",
       "weight": 1.0,
       "source": "changelog_0_0_0_beta_3_2026_08_05",
-      "target": "changelog_change",
+      "target": "changelog_change_35",
       "confidence_score": 1.0
     },
     {
@@ -69769,7 +69919,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L95",
+      "source_location": "L98",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_buenas_pr\u00e1cticas",
@@ -69779,7 +69929,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L52",
+      "source_location": "L55",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_commits_conventional_commits",
@@ -69789,7 +69939,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L28",
+      "source_location": "L31",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_convenciones_de_nomenclatura",
@@ -69809,7 +69959,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L43",
+      "source_location": "L46",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_estructura_del_proyecto",
@@ -69819,7 +69969,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L60",
+      "source_location": "L63",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_flujo_por_tarea",
@@ -69829,7 +69979,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L103",
+      "source_location": "L106",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_idioma",
@@ -69839,7 +69989,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L37",
+      "source_location": "L40",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_organizaci\u00f3n_y_ramas",
@@ -69849,7 +69999,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L56",
+      "source_location": "L59",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_tags",
@@ -69859,7 +70009,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L47",
+      "source_location": "L50",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_flujo_de_trabajo_vellumli_neoforge",
       "target": "docs_workflow_vellumli_26_2_versionado",
@@ -69869,7 +70019,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_VELLUMLI_26-2.md",
-      "source_location": "L18",
+      "source_location": "L21",
       "weight": 1.0,
       "source": "docs_workflow_vellumli_26_2_espec\u00edfico_del_mod",
       "target": "docs_workflow_vellumli_26_2_notas_espec\u00edficas_de_este_mod",
@@ -69985,5 +70135,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "d161077f6e8d98af823c98baf8bbbf208a3351dd"
+  "built_at_commit": "6cb520e442f51661e56c7b1770e0c2778946a51f"
 }

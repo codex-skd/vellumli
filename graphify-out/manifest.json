@@ -1,8 +1,8 @@
 {
   "build.gradle": {
-    "mtime": 1785842400.2571342,
-    "ast_hash": "f63fec01b44e516748408fd5d5ab493a",
-    "semantic_hash": "f63fec01b44e516748408fd5d5ab493a"
+    "mtime": 1786569058.4939158,
+    "ast_hash": "d4e404fa4285161292bff8989128c4ca",
+    "semantic_hash": ""
   },
   "gradlew": {
     "mtime": 1785804126.9692276,
@@ -1015,8 +1015,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1786376977.9092903,
-    "ast_hash": "8b5457649e2aa839f51110b76598d787",
+    "mtime": 1787221220.01075,
+    "ast_hash": "72f53a49d334a06797be98cfd4f11067",
     "semantic_hash": ""
   },
   "README.md": {
@@ -1025,18 +1025,18 @@
     "semantic_hash": ""
   },
   "docs/WORKFLOW_VELLUMLI_26-2.md": {
-    "mtime": 1785804238.2703857,
-    "ast_hash": "74b146f3425c4435e8df7f4ca00110de",
+    "mtime": 1787221220.0690374,
+    "ast_hash": "980146190f410e5ccd8e54410088fdbe",
     "semantic_hash": ""
   },
   "docs/curseforge/project_description.md": {
-    "mtime": 1785804227.2497993,
-    "ast_hash": "3b43de892a236badcb26fb40d190da90",
+    "mtime": 1786567703.5093284,
+    "ast_hash": "3a7314c7e6ac0dae9be09f073bdb9f96",
     "semantic_hash": ""
   },
   "docs/curseforge/project_vars.md": {
-    "mtime": 1786377940.4958396,
-    "ast_hash": "5996ef2f3183d9bd11166715721d2a6e",
+    "mtime": 1787221220.0879483,
+    "ast_hash": "1dc96460c7e88825834952705fb3c578",
     "semantic_hash": ""
   },
   "docs/curseforge/versions/0.0.0-beta.1.md": {
@@ -1152,6 +1152,21 @@
   "docs/curseforge/versions/1.0.0.md": {
     "mtime": 1786376982.0102139,
     "ast_hash": "ff9d076ecc1abefccb6a911b038e055f",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.0.1.md": {
+    "mtime": 1787068424.0368814,
+    "ast_hash": "c1910693c4b20d68b779b900ce78aa06",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.0.2.md": {
+    "mtime": 1787068105.0702677,
+    "ast_hash": "37741bb8cd20979247f9a58a5dc8355e",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.1.0.md": {
+    "mtime": 1787221213.020315,
+    "ast_hash": "645fad0af35f90f5e4c16b23c928cdcc",
     "semantic_hash": ""
   }
 }
