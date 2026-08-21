@@ -3,44 +3,6 @@
 	"item.vellumli.guide_book.undefined": "Invalid book: no ID defined",
 	"item.vellumli.guide_book.invalid": "Invalid book: %s",
 
-	"vellumli.demo_book.name": "Vellumli Demo Book",
-	"vellumli.demo_book.subtitle": "First beta",
-	"vellumli.demo_book.landing": "Welcome to $(item)Vellumli$()!$(br2)This demo book shows the core engine and the essential $(thing)page types$() ported in this first beta.$(br2)$(l:vellumli:page_types/text_page)Vellumli$(/l) is a fork of $(item)Patchouli$(), rewritten under a brand new package and resource namespace.",
-
-	"vellumli.demo_book.category.basics": "Basics",
-	"vellumli.demo_book.category.page_types": "Page Types",
-
-	"vellumli.demo_book.entry.start": "Getting Started",
-	"vellumli.demo_book.entry.text_page": "Text Pages",
-	"vellumli.demo_book.entry.image_page": "Image Pages",
-	"vellumli.demo_book.entry.crafting_page": "Crafting Pages",
-	"vellumli.demo_book.entry.spotlight_page": "Spotlight Pages",
-	"vellumli.demo_book.entry.relations_page": "Relations Pages",
-	"vellumli.demo_book.entry.link_page": "Link Pages",
-
-	"vellumli.demo_book.page.start.0": "Vellumli is a data-driven in-game documentation mod. Modders and pack makers write JSON files and the engine turns them into a readable book, with no Java required.$(br2)This book is bundled with the mod as a demo.",
-	"vellumli.demo_book.page.start.1": "Use the page turner arrows at the bottom of the book to browse.$(br2)You can also resize the book, bookmark pages, and mark entries as read from the side buttons.",
-
-	"vellumli.demo_book.page.text.title": "Plain Text",
-	"vellumli.demo_book.page.text.0": "The $(bold)text$() page is the most basic page type. It renders formatted text using Patchouli's control codes, e.g. $(item)items$(), $(thing)things$(), $(l)links$(), and even $(2)colors$().",
-	"vellumli.demo_book.page.text.1": "All text here is i18n-aware: with the book's $(l)i18n$() flag enabled, strings are looked up in the language files like any other translatable string.",
-
-	"vellumli.demo_book.page.image.title": "An Image",
-	"vellumli.demo_book.page.image.0": "The $(bold)image$() page shows one or more images from any texture path. Use the small arrows to cycle between multiple images.",
-
-	"vellumli.demo_book.page.crafting.0": "The $(bold)crafting$() page renders a vanilla crafting recipe. Click the recipe output and $(thing)shift-click$() to jump to the page that explains the item.",
-	"vellumli.demo_book.page.crafting.1": "Recipes are loaded from the vanilla recipe manager, so datapack recipes work automatically.",
-
-	"vellumli.demo_book.page.spotlight.0": "The $(bold)spotlight$() page highlights an item (or a list, or a tag). When $(l:true)link_recipe$() is set, hovering the item links it to the recipe page.",
-	"vellumli.demo_book.page.spotlight.title": "Tag Spotlight",
-	"vellumli.demo_book.page.spotlight.1": "Spotlights can also point at an item $(thing)tag$(), in which case the shown item cycles over the tag's contents.",
-
-	"vellumli.demo_book.page.relations.title": "Related Chapters",
-	"vellumli.demo_book.page.relations.0": "The $(bold)relations$() page lists other entries as buttons, letting readers jump between related chapters.",
-
-	"vellumli.demo_book.page.link.text": "Patchouli on GitHub",
-	"vellumli.demo_book.page.link.0": "The $(bold)link$() page opens an external URL in the system browser when clicked. Useful to point readers at a wiki or download page.",
-
 	"vellumli.subtitle.book_open": "Book Opens",
 	"vellumli.subtitle.book_flip": "Page Turns",
 
