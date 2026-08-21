@@ -1,6 +1,16 @@
 # Changelog — Vellumli
 
 
+## [1.2.0] - 2026-08-21
+
+### Feature
+
+- **Integración opcional con JEI**: se registra un `ISubtypeInterpreter` para `vellumli:guide_book` basado en el componente `vellumli:book`, de forma que JEI trata el libro de cada mod (p. ej. `workhand_tools:workhand_guide`) como un ingrediente distinto y buscable con su propio nombre, en vez de colapsar todos los libros Vellumli en una única entrada no buscable.
+
+### Fix
+
+- **Eliminado el "Vellumli Demo Book" incluido por defecto**: era contenido de desarrollo/ejemplo (id `vellumli:demo`) que no debía llegar a los jugadores; aparecía en el inventario creativo y en JEI de cualquier partida.
+
 ## [1.1.0] - 2026-08-19
 
 ### Change

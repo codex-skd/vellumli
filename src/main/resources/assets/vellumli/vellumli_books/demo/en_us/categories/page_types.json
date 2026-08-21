@@ -1,6 +1,0 @@
-{
-  "name": "vellumli.demo_book.category.page_types",
-  "description": "The essential page types ported in this first beta: text, image, crafting, spotlight, relations and link.",
-  "icon": "minecraft:crafting_table",
-  "sortnum": 1
-}
