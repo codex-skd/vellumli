@@ -845,8 +845,8 @@
     "semantic_hash": ""
   },
   "src/main/resources/assets/vellumli/lang/es_es.json": {
-    "mtime": 1785804790.0,
-    "ast_hash": "77bece9b8efe0b0db2e89c9590daf4f5",
+    "mtime": 1788828088.5461633,
+    "ast_hash": "131aaa068646a760ff3993bdb717fa42",
     "semantic_hash": ""
   },
   "src/main/resources/assets/vellumli/lang/fr_fr.json": {
@@ -965,8 +965,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1788216428.889164,
-    "ast_hash": "2e56892894941db7bb41bd9b822cc63b",
+    "mtime": 1788829874.7782433,
+    "ast_hash": "e5b726e11e005e48c5b4d24fc2714802",
     "semantic_hash": ""
   },
   "README.md": {
@@ -1102,6 +1102,11 @@
   "src/main/resources/assets/vellumli/sounds/book_open.ogg": {
     "mtime": 1785804790.0,
     "ast_hash": "6cdded6861d20a25e923ba7710039666",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.2.md": {
+    "mtime": 1788829811.9414124,
+    "ast_hash": "41050a2845214b7a8da3a1bbacf196a2",
     "semantic_hash": ""
   }
 }
