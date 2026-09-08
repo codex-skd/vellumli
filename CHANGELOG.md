@@ -2,6 +2,16 @@
 
 Branch `minecraft/1.21.1/neoforge-21.1.249/production`. History independent of the 26.2 branch.
 
+## [0.0.0-beta.2] - 2026-09-08
+
+### Fixed
+
+- **Spanish (`es_es`) locale**: added the 13 keys present in `en_us` but missing from `es_es`
+  — the config-screen labels (`vellumli.configuration.*`), the two networking failure messages
+  (`open_book.failed`, `reload_contents.failed`) and the lexicon "toggle mock header" button.
+  Values from the Mystical Realms Translation & Fixes resource-pack QA pass, moved here so they
+  ship with the mod. No code change.
+
 ## [0.0.0-beta.1] - 2026-09-01
 
 ### Added
