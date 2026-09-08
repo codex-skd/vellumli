@@ -2,26 +2,19 @@
 	"item.vellumli.guide_book": "Libro guía",
 	"item.vellumli.guide_book.undefined": "Libro inválido: ID no definida",
 	"item.vellumli.guide_book.invalid": "Libro inválido: %s",
-
 	"item.vellumli.comprehensive_test_book.name": "Libro de prueba contentivo",
 	"item.vellumli.comprehensive_test_book.landing": "Lo que espero que se convierta en un libro de prueba contentivo para todo Patchouli, en lugar de la mezcla al azar que tenemos ahora.",
-
 	"item.vellumli:test_book_1.name": "Libro de prueba 1",
 	"item.vellumli:test_book_1.landing": "No es un texto de entrada divertido, pero aquí está.",
-	
 	"item.vellumli:test_book_2.name": "Libro de prueba 2",
 	"item.vellumli:test_book_2.landing": "¡Texto de entrada! ¡Incluso soporta $(2)colores$() y $(4)estilos $(bold)similares$()!",
-	
 	"item.vellumli:test_completion.name": "Libro de prueba para progresos",
 	"item.vellumli:test_completion.landing": "¡Este libro cambia de color cuando se desbloquean entradas!",
-	
 	"item.vellumli:intro_book.name": "Patchouli",
 	"item.vellumli:intro_book.subtitle": "Documentación para todos",
 	"item.vellumli:intro_book.landing": "¡Con $(item)Patchouli$(), puede hacer $(thing)libros$() fáciles de leer y desbloqueables por progreso para mods and modpacks!",
-	
 	"vellumli.subtitle.book_open": "Libro abierto",
 	"vellumli.subtitle.book_flip": "Paso de página",
-	
 	"vellumli.gui.lexicon.landing_info": "(¡Marcador de texto de entrada, defina el suyo en el archivo json de su libro!)",
 	"vellumli.gui.lexicon.progress_meter": "Progreso:",
 	"vellumli.gui.lexicon.progress_tooltip": "%d/%d desbloqueado",
@@ -71,7 +64,6 @@
 	"vellumli.gui.lexicon.complete": "¡Completo!",
 	"vellumli.gui.lexicon.mark_complete": "Marcar como completo",
 	"vellumli.gui.lexicon.mark_incomplete": "Marcar como incompleto",
-	
 	"vellumli.gui.lexicon.button.prev_page": "Anterior",
 	"vellumli.gui.lexicon.button.next_page": "Siguiente",
 	"vellumli.gui.lexicon.button.back": "Volver",
@@ -93,5 +85,18 @@
 	"vellumli.gui.lexicon.button.visualize.info": "(Clic de nuevo para borrar)",
 	"vellumli.gui.lexicon.button.history": "Historia",
 	"vellumli.gui.lexicon.button.mark_all_read": "Marcar todo como leído",
-	"vellumli.gui.lexicon.button.mark_category_read": "Marcar esta categoría como leída"
+	"vellumli.gui.lexicon.button.mark_category_read": "Marcar esta categoría como leída",
+	"vellumli.gui.lexicon.button.toggle_mock_header": "Alternar encabezado simulado",
+	"vellumli.networking.open_book.failed": "Error al abrir el libro %s",
+	"vellumli.networking.reload_contents.failed": "Error al recargar contenido %S",
+	"vellumli.configuration.title": "Configuración de Vellumli",
+	"vellumli.configuration.section.vellumli.client.toml": "Configuración del cliente de Vellumli",
+	"vellumli.configuration.section.vellumli.client.toml.title": "Configuración del cliente de Vellumli",
+	"vellumli.configuration.disableAdvancementLocking": "Deshabilitar bloqueo de progresos",
+	"vellumli.configuration.noAdvancementBooks": "Libros sin bloqueo de progresos",
+	"vellumli.configuration.testingMode": "Modo de pruebas",
+	"vellumli.configuration.inventoryButtonBook": "Libro del botón de inventario",
+	"vellumli.configuration.useShiftForQuickLookup": "Usar MAYÚS para consulta rápida",
+	"vellumli.configuration.textOverflowMode": "Modo de desbordamiento de texto",
+	"vellumli.configuration.quickLookupTime": "Tiempo de consulta rápida"
 }
