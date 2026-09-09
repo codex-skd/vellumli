@@ -2,6 +2,36 @@
 
 Branch `minecraft/1.21.1/neoforge-21.1.249/production`. History independent of the 26.2 branch.
 
+## [1.0.0] - 2026-09-09
+
+First stable release for **Minecraft 1.21.1 / NeoForge 21.1.249** (Java 21). Consolidates the
+`0.0.0-beta.1` → `0.0.0-beta.2` line with no further code changes. This build has been running in
+the *(Develop) Mystical Realms* modded-server pack (it is a guidebook dependency for other
+1.21.1 mods).
+
+### Summary of the beta line
+
+- **beta.1** — initial port by **re-forking** the upstream Patchouli 1.21.x sources
+  (Vazkii / williewillus, CC BY-NC-SA 3.0), flattened to a single NeoForge module and rebranded
+  to the Vellumli identity (package `vazkii.patchouli` → `com.skd.vellumli`, modid `patchouli` →
+  `vellumli`). Feature parity with the 26.2 line: the data-driven book engine, all built-in page
+  types, custom components and templates, the full book GUI, advancement gating, and the JEI
+  subtype interpreter. The multiblock preview system is not included (matches the 26.2 scope; the
+  `api` stubs are kept for source compatibility). 26.2 → 1.21.1 API reversions:
+  `Identifier` → `ResourceLocation`, `GuiGraphicsExtractor` → `GuiGraphics`, `extractRenderState()`
+  → `render()`, `pushMatrix()/popMatrix()` → `pushPose()/popPose()`, the `completion` model
+  predicate re-registered via `ItemProperties.register()`, `BookModel` reworked to the 1.21.1
+  baked-model form.
+- **beta.2** — completed the Spanish (`es_es`) locale (13 missing keys: config-screen labels,
+  the two networking failure messages, the "toggle mock header" button).
+
+### Notes
+
+- No code change relative to `0.0.0-beta.2`. Verified: `./gradlew clean build` is green;
+  `./gradlew runServer` reaches `Done` with both server-side accessor mixins applied.
+- Same CurseForge project as the 26.2 line (`1638492`); pick the file that matches your Minecraft
+  version. Dependency-free.
+
 ## [0.0.0-beta.2] - 2026-09-08
 
 ### Fixed

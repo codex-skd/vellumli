@@ -6,7 +6,7 @@ Vellumli is an accessible, data-driven, dependency-free in-game documentation mo
 
 ## Status
 
-Beta (`0.0.0-beta.1`). Initial port to Minecraft 1.21.1 / NeoForge 21.1.249 (Java 21) — a **re-fork** from the upstream Patchouli 1.21.x sources, carrying the Vellumli identity and the 26.2 line's scope (JEI subtype compat; no bundled demo book; the multiblock preview system is not included). `./gradlew build` and `./gradlew runServer` verified.
+Stable (`1.0.0`). Port to Minecraft 1.21.1 / NeoForge 21.1.249 (Java 21) — a **re-fork** from the upstream Patchouli 1.21.x sources, carrying the Vellumli identity and the 26.2 line's scope (JEI subtype compat; no bundled demo book; the multiblock preview system is not included). `./gradlew build` and `./gradlew runServer` verified; this build has been running in a full modded-server pack as a guidebook dependency.
 
 ## Requirements
 
