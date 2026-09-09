@@ -1,6 +1,6 @@
 # CurseForge — Variables del proyecto
 
-> **Rama 1.21.1**: `game_versions = 9638, 9639, 11779, 10150` (Client, Server, **1.21.1** id `11779`, NeoForge). `release_type = beta`. JAR `vellumli-1.21.1-neoforge-21.1.249-<version>.jar`. Tag `1.21.1-neoforge-<version>`. Proyecto CurseForge compartido con la rama 26.2 (`1638492`).
+> **Rama 1.21.1**: `game_versions = 9638, 9639, 11779, 10150` (Client, Server, **1.21.1** id `11779`, NeoForge). `release_type = release`. JAR `vellumli-1.21.1-neoforge-21.1.249-<version>.jar`. Tag `1.21.1-neoforge-<version>`. Proyecto CurseForge compartido con la rama 26.2 (`1638492`).
 
 ## Proyecto
 
@@ -27,7 +27,7 @@ Autenticación Core: cabecera `x-api-key`
 ```
 project_id = 1638492
 api_token = ee776b0a-ee95-4850-b554-06be02a8657f
-release_type = beta
+release_type = release
 game_versions = 9638, 9639, 11779, 10150
 relations =
 ```
