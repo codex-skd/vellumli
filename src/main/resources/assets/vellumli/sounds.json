@@ -1,0 +1,4 @@
+{
+	"book_flip": { "category": "player", "sounds": ["vellumli:book_flip"], "subtitle": "vellumli.subtitle.book_flip" },
+	"book_open": { "category": "player", "sounds": ["vellumli:book_open"], "subtitle": "vellumli.subtitle.book_open" }
+}
