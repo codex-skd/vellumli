@@ -1,0 +1,116 @@
+package com.skd.vellumli.neoforge.xplat;
+
+import net.minecraft.client.gui.GuiGraphicsExtractor;
+import net.minecraft.client.gui.screens.Screen;
+import net.minecraft.core.Holder;
+import net.minecraft.resources.Identifier;
+import net.minecraft.server.MinecraftServer;
+import net.minecraft.server.level.ServerPlayer;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.crafting.Ingredient;
+import net.neoforged.api.distmarker.Dist;
+import net.neoforged.fml.ModList;
+import net.neoforged.fml.loading.FMLEnvironment;
+import net.neoforged.neoforge.common.NeoForge;
+import net.neoforged.neoforge.common.crafting.CompoundIngredient;
+import net.neoforged.neoforge.common.crafting.DataComponentIngredient;
+import net.neoforged.neoforge.registries.DeferredRegister;
+
+import com.skd.vellumli.api.BookContentsReloadEvent;
+import com.skd.vellumli.api.BookDrawScreenEvent;
+import com.skd.vellumli.api.VellumliAPI;
+import com.skd.vellumli.neoforge.network.NeoForgeNetworkHandler;
+import com.skd.vellumli.xplat.IXplatAbstractions;
+import com.skd.vellumli.xplat.XplatModContainer;
+
+import org.jetbrains.annotations.Nullable;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.function.Function;
+import java.util.function.UnaryOperator;
+
+public class NeoForgeXplatImpl implements IXplatAbstractions {
+	private final Map<String, NeoForgeXplatModContainer> modCache = new HashMap<>();
+	public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(VellumliAPI.MOD_ID);
+
+	@Override
+	public void fireDrawBookScreen(Identifier book, Screen gui, int mouseX, int mouseY, float partialTicks, GuiGraphicsExtractor graphics) {
+		NeoForge.EVENT_BUS.post(new BookDrawScreenEvent(book, gui, mouseX, mouseY, partialTicks, graphics));
+	}
+
+	@Override
+	public void fireBookReload(Identifier book) {
+		NeoForge.EVENT_BUS.post(new BookContentsReloadEvent(book));
+	}
+
+	@Override
+	public void sendReloadContentsMessage(MinecraftServer server) {
+		NeoForgeNetworkHandler.sendReloadBookContents(server);
+	}
+
+	@Override
+	public void sendOpenBookGui(ServerPlayer player, Identifier book, @Nullable Identifier entry, int page) {
+		NeoForgeNetworkHandler.sendOpenBook(player, book, entry, page);
+	}
+
+	@Override
+	public Collection<XplatModContainer> getAllMods() {
+		List<XplatModContainer> ret = new ArrayList<>();
+		for (var info : ModList.get().getMods()) {
+			ret.add(getModContainer(info.getModId()));
+		}
+		return ret;
+	}
+
+	@Override
+	public XplatModContainer getModContainer(String modId) {
+		return modCache.computeIfAbsent(modId, id -> new NeoForgeXplatModContainer(ModList.get().getModContainerById(id).orElseThrow()));
+	}
+
+	@Override
+	public boolean isModLoaded(String modId) {
+		return ModList.get().isLoaded(modId);
+	}
+
+	@Override
+	public boolean isDevEnvironment() {
+		return !FMLEnvironment.isProduction();
+	}
+
+	@Override
+	public boolean isPhysicalClient() {
+		return FMLEnvironment.getDist() == Dist.CLIENT;
+	}
+
+	@Override
+	public void signalBooksLoaded() {
+		if (isPhysicalClient()) {
+			//NeoForgeClientInitializer.signalBooksLoaded();
+		}
+	}
+
+	@Override
+	public boolean handleRecipeKeybind(int keyCode, int scanCode, @Nullable ItemStack stack) {
+		return false;
+	}
+
+	@Override
+	public Ingredient createComponentIngredient(ItemStack itemStack) {
+		return DataComponentIngredient.of(false, itemStack);
+	}
+
+	@Override
+	public Ingredient createCompoundIngredient(Ingredient[] ingredients) {
+		return CompoundIngredient.of(ingredients);
+	}
+
+	@Override
+	public <T extends Item> Holder<Item> registerItem(String name, Function<Item.Properties, T> factory, UnaryOperator<Item.Properties> operator) {
+		return ITEMS.registerItem(name, factory, operator);
+	}
+}

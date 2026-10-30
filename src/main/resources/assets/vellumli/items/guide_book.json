@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "vellumli:book",
+    "base": {
+      "type": "minecraft:model",
+      "model": "vellumli:item/guide_book"
+    }
+  }
+}
